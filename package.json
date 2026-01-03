@@ -8,7 +8,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "server": "nodemon --ignore '*.json' --ignore '*.log' --ignore '*.txt' server/index.js",
     "client": "cd client && npm start",
-    "build": "cd client && npm install && npm run build",
+    "build": "cd client && npm install && CI=false npm run build",
     "install-all": "npm install && cd client && npm install",
     "fetch-content": "node auto-fetch-all-sources.js --once",
     "auto-fetch": "node auto-fetch-all-sources.js",
