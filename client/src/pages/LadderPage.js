@@ -191,7 +191,7 @@ const LadderPage = () => {
         <h1 className="ladder-title">LEADERBOARD</h1>
         <p className="ladder-subtitle">Top 25 Players for Each Game Mode</p>
         
-        <div className="search-container">
+        {/* <div className="search-container">
           <input
             type="text"
             className="wc3-search-input"
@@ -208,7 +208,7 @@ const LadderPage = () => {
               CLEAR
             </button>
           )}
-        </div>
+        </div> */}
       </div>
 
       <div className="ladder-controls">
