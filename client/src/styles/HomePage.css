@@ -1,0 +1,312 @@
+.home-page {
+  min-height: 100vh;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, rgba(10, 14, 26, 0.85) 0%, rgba(26, 31, 46, 0.9) 50%, rgba(10, 14, 26, 0.85) 100%), url('../assets/backgrounds/campaignselect_bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  padding: 100px 20px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    radial-gradient(circle at 20% 50%, rgba(255, 215, 0, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 80% 50%, rgba(74, 144, 226, 0.1) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero-title {
+  font-size: 64px;
+  font-weight: 900;
+  background: linear-gradient(135deg, var(--primary-gold), var(--accent-blue));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.hero-subtitle {
+  font-size: 20px;
+  color: var(--text-secondary);
+  margin-bottom: 40px;
+  letter-spacing: 2px;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.features-section {
+  padding: 80px 20px;
+  background-color: var(--secondary-bg);
+}
+
+.section-title {
+  text-align: center;
+  font-size: 42px;
+  font-weight: 800;
+  color: var(--primary-gold);
+  margin-bottom: 50px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.feature-card {
+  background-color: rgba(26, 31, 46, 0.95);
+  padding: 40px 30px;
+  border-radius: 8px;
+  border: 2px solid var(--border-color);
+  transition: var(--transition);
+  text-align: center;
+  box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  border-color: var(--primary-gold);
+  box-shadow: 0 8px 24px rgba(255, 215, 0, 0.2), inset 0 0 20px rgba(255, 215, 0, 0.2);
+}
+
+.feature-icon {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.feature-card h3 {
+  font-size: 24px;
+  color: var(--primary-gold);
+  margin-bottom: 15px;
+}
+
+.feature-card p {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.feature-link {
+  color: var(--accent-blue);
+  text-decoration: none;
+  font-weight: 600;
+  transition: var(--transition);
+}
+
+.feature-link:hover {
+  color: var(--primary-gold);
+}
+
+.races-section {
+  padding: 80px 20px;
+  background-color: var(--primary-bg);
+}
+
+.races-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.race-card {
+  background-color: var(--card-bg);
+  padding: 40px 30px;
+  border-radius: 8px;
+  border: 3px solid;
+  transition: var(--transition);
+  text-align: center;
+}
+
+.race-card.human {
+  border-color: var(--human-color);
+  background: linear-gradient(135deg, rgba(74, 144, 226, 0.15), rgba(26, 31, 46, 0.95));
+}
+
+.race-card.orc {
+  border-color: var(--orc-color);
+  background: linear-gradient(135deg, rgba(211, 47, 47, 0.15), rgba(26, 31, 46, 0.95));
+}
+
+.race-card.undead {
+  border-color: var(--undead-color);
+  background: linear-gradient(135deg, rgba(156, 39, 176, 0.15), rgba(26, 31, 46, 0.95));
+}
+
+.race-card.nightelf {
+  border-color: var(--nightelf-color);
+  background: linear-gradient(135deg, rgba(0, 188, 212, 0.15), rgba(26, 31, 46, 0.95));
+}
+
+.race-card:hover {
+  transform: scale(1.05);
+  box-shadow: var(--shadow-lg);
+}
+
+.race-card h3 {
+  font-size: 28px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.race-card.human h3 {
+  color: var(--human-color);
+}
+
+.race-card.orc h3 {
+  color: var(--orc-color);
+}
+
+.race-card.undead h3 {
+  color: var(--undead-color);
+}
+
+.race-card.nightelf h3 {
+  color: var(--nightelf-color);
+}
+
+.race-card p {
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.cta-section {
+  padding: 80px 20px;
+  background: linear-gradient(135deg, var(--secondary-bg) 0%, var(--card-bg) 100%);
+  text-align: center;
+}
+
+.cta-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.cta-content h2 {
+  font-size: 42px;
+  color: var(--primary-gold);
+  margin-bottom: 20px;
+}
+
+.cta-content p {
+  font-size: 18px;
+  color: var(--text-secondary);
+  margin-bottom: 30px;
+}
+
+.btn-cta {
+  background: linear-gradient(135deg, var(--primary-gold), var(--secondary-gold));
+  color: var(--primary-bg);
+  padding: 15px 40px;
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 4px;
+  transition: var(--transition);
+}
+
+.btn-cta:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 16px rgba(255, 215, 0, 0.4);
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .home-page {
+    padding: 0;
+  }
+
+  .hero-section {
+    padding: 60px 20px;
+    min-height: 60vh;
+  }
+
+  .hero-title {
+    font-size: 32px;
+  }
+
+  .hero-subtitle {
+    font-size: 14px;
+  }
+
+  .hero-buttons {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .hero-buttons .btn {
+    width: 100%;
+  }
+
+  .section-title {
+    font-size: 28px;
+  }
+
+  .features-section,
+  .races-section,
+  .cta-section {
+    padding: 40px 20px;
+  }
+
+  .features-grid,
+  .races-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .feature-card,
+  .race-card {
+    padding: 25px 20px;
+  }
+
+  .cta-content h2 {
+    font-size: 28px;
+  }
+
+  .cta-content p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-title {
+    font-size: 24px;
+  }
+
+  .section-title {
+    font-size: 24px;
+  }
+}

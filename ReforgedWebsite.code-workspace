@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/war3.w3mod/webui"
+		},
+		{
+			"path": "client/src/assets/portraits"
+		}
+	],
+	"settings": {}
+}

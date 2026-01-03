@@ -1,0 +1,4391 @@
+{
+  "ladderData": {
+    "1v1": [
+      {
+        "_id": "아기부엉이#3204",
+        "battleTag": "아기부엉이#3204",
+        "teammates": [
+          {
+            "battleTag": "아기부엉이#3204",
+            "race": "human",
+            "portrait": "p099"
+          }
+        ],
+        "rank": 1,
+        "race": "nightelf",
+        "portrait": "p099",
+        "wins": 1043,
+        "losses": 372,
+        "mmr": 6481,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 73.7,
+        "level": 0,
+        "xp": 28700
+      },
+      {
+        "_id": "Aeao#31465",
+        "battleTag": "Aeao#31465",
+        "teammates": [
+          {
+            "battleTag": "Aeao#31465",
+            "race": "human",
+            "portrait": "p089"
+          }
+        ],
+        "rank": 2,
+        "race": "human",
+        "portrait": "p089",
+        "wins": 1895,
+        "losses": 1500,
+        "mmr": 5767,
+        "league": "master",
+        "division": 6,
+        "winRate": 55.8,
+        "level": 0,
+        "xp": 23345
+      },
+      {
+        "_id": "Tak#31483",
+        "battleTag": "Tak#31483",
+        "teammates": [
+          {
+            "battleTag": "Tak#31483",
+            "race": "human",
+            "portrait": "p069"
+          }
+        ],
+        "rank": 3,
+        "race": "human",
+        "portrait": "p069",
+        "wins": 1908,
+        "losses": 1522,
+        "mmr": 5697,
+        "league": "master",
+        "division": 6,
+        "winRate": 55.6,
+        "level": 0,
+        "xp": 23250
+      },
+      {
+        "_id": "goods#31869",
+        "battleTag": "goods#31869",
+        "teammates": [
+          {
+            "battleTag": "goods#31869",
+            "race": "human",
+            "portrait": "p006"
+          }
+        ],
+        "rank": 4,
+        "race": "nightelf",
+        "portrait": "p006",
+        "wins": 765,
+        "losses": 291,
+        "mmr": 6568,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 72.4,
+        "level": 0,
+        "xp": 20415
+      },
+      {
+        "_id": "GGNoRe#11195",
+        "battleTag": "GGNoRe#11195",
+        "teammates": [
+          {
+            "battleTag": "GGNoRe#11195",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 5,
+        "race": "orc",
+        "portrait": 0,
+        "wins": 1140,
+        "losses": 725,
+        "mmr": 6260,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 61.1,
+        "level": 0,
+        "xp": 20225
+      },
+      {
+        "_id": "개념출장#31148",
+        "battleTag": "개념출장#31148",
+        "teammates": [
+          {
+            "battleTag": "개념출장#31148",
+            "race": "human",
+            "portrait": "p128"
+          }
+        ],
+        "rank": 6,
+        "race": "orc",
+        "portrait": "p128",
+        "wins": 4964,
+        "losses": 5129,
+        "mmr": 4515,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 49.2,
+        "level": 0,
+        "xp": 19280
+      },
+      {
+        "_id": "JpercenT#3972",
+        "battleTag": "JpercenT#3972",
+        "teammates": [
+          {
+            "battleTag": "JpercenT#3972",
+            "race": "human",
+            "portrait": "p127"
+          }
+        ],
+        "rank": 7,
+        "race": "orc",
+        "portrait": "p127",
+        "wins": 2204,
+        "losses": 1995,
+        "mmr": 5134,
+        "league": "master",
+        "division": 6,
+        "winRate": 52.5,
+        "level": 0,
+        "xp": 18485
+      },
+      {
+        "_id": "그런트2000#31363",
+        "battleTag": "그런트2000#31363",
+        "teammates": [
+          {
+            "battleTag": "그런트2000#31363",
+            "race": "human",
+            "portrait": "p071"
+          }
+        ],
+        "rank": 8,
+        "race": "human",
+        "portrait": "p071",
+        "wins": 644,
+        "losses": 217,
+        "mmr": 5232,
+        "league": "master",
+        "division": 6,
+        "winRate": 74.8,
+        "level": 0,
+        "xp": 18200
+      },
+      {
+        "_id": "CuN#1303",
+        "battleTag": "CuN#1303",
+        "teammates": [
+          {
+            "battleTag": "CuN#1303",
+            "race": "human",
+            "portrait": "p182"
+          }
+        ],
+        "rank": 9,
+        "race": "nightelf",
+        "portrait": "p182",
+        "wins": 1898,
+        "losses": 1671,
+        "mmr": 5382,
+        "league": "master",
+        "division": 6,
+        "winRate": 53.2,
+        "level": 0,
+        "xp": 17470
+      },
+      {
+        "_id": "Lecilufa#2529",
+        "battleTag": "Lecilufa#2529",
+        "teammates": [
+          {
+            "battleTag": "Lecilufa#2529",
+            "race": "human",
+            "portrait": "p045"
+          }
+        ],
+        "rank": 10,
+        "race": "nightelf",
+        "portrait": "p045",
+        "wins": 2178,
+        "losses": 1993,
+        "mmr": 4904,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 52.2,
+        "level": 0,
+        "xp": 17395
+      },
+      {
+        "_id": "모험가#3757125",
+        "battleTag": "모험가#3757125",
+        "teammates": [
+          {
+            "battleTag": "모험가#3757125",
+            "race": "human",
+            "portrait": "p031"
+          }
+        ],
+        "rank": 11,
+        "race": "human",
+        "portrait": "p031",
+        "wins": 2298,
+        "losses": 2137,
+        "mmr": 4969,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 51.8,
+        "level": 0,
+        "xp": 17330
+      },
+      {
+        "_id": "물탱크#31430",
+        "battleTag": "물탱크#31430",
+        "teammates": [
+          {
+            "battleTag": "물탱크#31430",
+            "race": "human",
+            "portrait": "p035"
+          }
+        ],
+        "rank": 12,
+        "race": "orc",
+        "portrait": "p035",
+        "wins": 1356,
+        "losses": 1055,
+        "mmr": 5461,
+        "league": "master",
+        "division": 6,
+        "winRate": 56.2,
+        "level": 0,
+        "xp": 17315
+      },
+      {
+        "_id": "neo#3813",
+        "battleTag": "neo#3813",
+        "teammates": [
+          {
+            "battleTag": "neo#3813",
+            "race": "human",
+            "portrait": "p037"
+          }
+        ],
+        "rank": 13,
+        "race": "orc",
+        "portrait": "p037",
+        "wins": 3846,
+        "losses": 3906,
+        "mmr": 4168,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 49.6,
+        "level": 0,
+        "xp": 17130
+      },
+      {
+        "_id": "MearONE#1650",
+        "battleTag": "MearONE#1650",
+        "teammates": [
+          {
+            "battleTag": "MearONE#1650",
+            "race": "human",
+            "portrait": "p037"
+          }
+        ],
+        "rank": 14,
+        "race": "orc",
+        "portrait": "p037",
+        "wins": 1818,
+        "losses": 1602,
+        "mmr": 4377,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 53.2,
+        "level": 0,
+        "xp": 16755
+      },
+      {
+        "_id": "yaun#11819",
+        "battleTag": "yaun#11819",
+        "teammates": [
+          {
+            "battleTag": "yaun#11819",
+            "race": "human",
+            "portrait": "p068"
+          }
+        ],
+        "rank": 15,
+        "race": "nightelf",
+        "portrait": "p068",
+        "wins": 416,
+        "losses": 6,
+        "mmr": 6005,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 98.6,
+        "level": 0,
+        "xp": 16430
+      },
+      {
+        "_id": "ShnuR#2607",
+        "battleTag": "ShnuR#2607",
+        "teammates": [
+          {
+            "battleTag": "ShnuR#2607",
+            "race": "human",
+            "portrait": "p055"
+          }
+        ],
+        "rank": 16,
+        "race": "random",
+        "portrait": "p055",
+        "wins": 1709,
+        "losses": 1501,
+        "mmr": 4893,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 53.2,
+        "level": 0,
+        "xp": 15860
+      },
+      {
+        "_id": "WSB#31137",
+        "battleTag": "WSB#31137",
+        "teammates": [
+          {
+            "battleTag": "WSB#31137",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 17,
+        "race": "random",
+        "portrait": "p003",
+        "wins": 1131,
+        "losses": 899,
+        "mmr": 5483,
+        "league": "master",
+        "division": 6,
+        "winRate": 55.7,
+        "level": 0,
+        "xp": 13775
+      },
+      {
+        "_id": "GGNoRe#11195",
+        "battleTag": "GGNoRe#11195",
+        "teammates": [
+          {
+            "battleTag": "GGNoRe#11195",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 18,
+        "race": "human",
+        "portrait": 0,
+        "wins": 770,
+        "losses": 492,
+        "mmr": 5285,
+        "league": "master",
+        "division": 6,
+        "winRate": 61,
+        "level": 0,
+        "xp": 13580
+      },
+      {
+        "_id": "BOOMBOOM#12969",
+        "battleTag": "BOOMBOOM#12969",
+        "teammates": [
+          {
+            "battleTag": "BOOMBOOM#12969",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 19,
+        "race": "orc",
+        "portrait": 0,
+        "wins": 710,
+        "losses": 424,
+        "mmr": 5823,
+        "league": "master",
+        "division": 6,
+        "winRate": 62.6,
+        "level": 0,
+        "xp": 13560
+      },
+      {
+        "_id": "CherryFreely#2792",
+        "battleTag": "CherryFreely#2792",
+        "teammates": [
+          {
+            "battleTag": "CherryFreely#2792",
+            "race": "human",
+            "portrait": "p001"
+          }
+        ],
+        "rank": 20,
+        "race": "nightelf",
+        "portrait": "p001",
+        "wins": 2256,
+        "losses": 2206,
+        "mmr": 4564,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 50.6,
+        "level": 0,
+        "xp": 13130
+      },
+      {
+        "_id": "레오폴더#3418",
+        "battleTag": "레오폴더#3418",
+        "teammates": [
+          {
+            "battleTag": "레오폴더#3418",
+            "race": "human",
+            "portrait": "p098"
+          }
+        ],
+        "rank": 21,
+        "race": "orc",
+        "portrait": "p098",
+        "wins": 2521,
+        "losses": 2506,
+        "mmr": 4630,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 50.1,
+        "level": 0,
+        "xp": 13130
+      },
+      {
+        "_id": "Dunbar#11787",
+        "battleTag": "Dunbar#11787",
+        "teammates": [
+          {
+            "battleTag": "Dunbar#11787",
+            "race": "human",
+            "portrait": "p069"
+          }
+        ],
+        "rank": 22,
+        "race": "human",
+        "portrait": "p069",
+        "wins": 1864,
+        "losses": 1765,
+        "mmr": 4304,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 51.4,
+        "level": 0,
+        "xp": 13060
+      },
+      {
+        "_id": "BOOMBOOM#12969",
+        "battleTag": "BOOMBOOM#12969",
+        "teammates": [
+          {
+            "battleTag": "BOOMBOOM#12969",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 23,
+        "race": "human",
+        "portrait": 0,
+        "wins": 702,
+        "losses": 433,
+        "mmr": 5514,
+        "league": "master",
+        "division": 6,
+        "winRate": 61.9,
+        "level": 0,
+        "xp": 13025
+      },
+      {
+        "_id": "baize15#3122",
+        "battleTag": "baize15#3122",
+        "teammates": [
+          {
+            "battleTag": "baize15#3122",
+            "race": "human",
+            "portrait": "p008"
+          }
+        ],
+        "rank": 24,
+        "race": "nightelf",
+        "portrait": "p008",
+        "wins": 2245,
+        "losses": 2196,
+        "mmr": 4122,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 50.6,
+        "level": 0,
+        "xp": 12960
+      },
+      {
+        "_id": "lalalili#21796",
+        "battleTag": "lalalili#21796",
+        "teammates": [
+          {
+            "battleTag": "lalalili#21796",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 25,
+        "race": "orc",
+        "portrait": 0,
+        "wins": 1436,
+        "losses": 1277,
+        "mmr": 4789,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 52.9,
+        "level": 0,
+        "xp": 12815
+      }
+    ],
+    "2v2": [
+      {
+        "_id": "Nawt#21372",
+        "battleTag": "Nawt#21372",
+        "teammates": [
+          {
+            "battleTag": "Nawt#21372",
+            "race": "human",
+            "portrait": "p103"
+          }
+        ],
+        "rank": 1,
+        "race": "nightelf",
+        "portrait": "p103",
+        "wins": 708,
+        "losses": 258,
+        "mmr": 6375,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 73.3,
+        "xp": 19325
+      },
+      {
+        "_id": "iseeddppl#2696",
+        "battleTag": "iseeddppl#2696",
+        "teammates": [
+          {
+            "battleTag": "iseeddppl#2696",
+            "race": "human",
+            "portrait": "p113"
+          }
+        ],
+        "rank": 2,
+        "race": "random",
+        "portrait": "p113",
+        "wins": 934,
+        "losses": 623,
+        "mmr": 5491,
+        "league": "master",
+        "division": 6,
+        "winRate": 60,
+        "xp": 16875
+      },
+      {
+        "_id": "TheEDUCATOR#21753",
+        "battleTag": "TheEDUCATOR#21753",
+        "teammates": [
+          {
+            "battleTag": "TheEDUCATOR#21753",
+            "race": "human",
+            "portrait": "p113"
+          }
+        ],
+        "rank": 3,
+        "race": "random",
+        "portrait": "p113",
+        "wins": 1268,
+        "losses": 995,
+        "mmr": 4736,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 56,
+        "xp": 16645
+      },
+      {
+        "_id": "mouzgumbey#2690",
+        "battleTag": "mouzgumbey#2690",
+        "teammates": [
+          {
+            "battleTag": "mouzgumbey#2690",
+            "race": "human",
+            "portrait": "p103"
+          }
+        ],
+        "rank": 4,
+        "race": "nightelf",
+        "portrait": "p103",
+        "wins": 1161,
+        "losses": 926,
+        "mmr": 4854,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 55.6,
+        "xp": 16035
+      },
+      {
+        "_id": "Keptin#11952",
+        "battleTag": "Keptin#11952",
+        "teammates": [
+          {
+            "battleTag": "Keptin#11952",
+            "race": "human",
+            "portrait": "p074"
+          }
+        ],
+        "rank": 5,
+        "race": "orc",
+        "portrait": "p074",
+        "wins": 1120,
+        "losses": 878,
+        "mmr": 4937,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 56.1,
+        "xp": 15290
+      },
+      {
+        "_id": "DeathRipple#1474",
+        "battleTag": "DeathRipple#1474",
+        "teammates": [
+          {
+            "battleTag": "DeathRipple#1474",
+            "race": "human",
+            "portrait": "p113"
+          }
+        ],
+        "rank": 6,
+        "race": "random",
+        "portrait": "p113",
+        "wins": 1298,
+        "losses": 1123,
+        "mmr": 4757,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 53.6,
+        "xp": 14050
+      },
+      {
+        "_id": "MagicGnome#221204",
+        "battleTag": "MagicGnome#221204",
+        "teammates": [
+          {
+            "battleTag": "MagicGnome#221204",
+            "race": "human",
+            "portrait": "p001"
+          }
+        ],
+        "rank": 7,
+        "race": "random",
+        "portrait": "p001",
+        "wins": 554,
+        "losses": 312,
+        "mmr": 5898,
+        "league": "master",
+        "division": 6,
+        "winRate": 64,
+        "xp": 14005
+      },
+      {
+        "_id": "超级贝吉塔#31253",
+        "battleTag": "超级贝吉塔#31253",
+        "teammates": [
+          {
+            "battleTag": "超级贝吉塔#31253",
+            "race": "human",
+            "portrait": "p037"
+          }
+        ],
+        "rank": 8,
+        "race": "orc",
+        "portrait": "p037",
+        "wins": 1238,
+        "losses": 1113,
+        "mmr": 4907,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 52.7,
+        "xp": 12720
+      },
+      {
+        "_id": "MuscleMike#11122",
+        "battleTag": "MuscleMike#11122",
+        "teammates": [
+          {
+            "battleTag": "MuscleMike#11122",
+            "race": "human",
+            "portrait": "p097"
+          }
+        ],
+        "rank": 9,
+        "race": "orc",
+        "portrait": "p097",
+        "wins": 960,
+        "losses": 815,
+        "mmr": 5243,
+        "league": "master",
+        "division": 6,
+        "winRate": 54.1,
+        "xp": 12330
+      },
+      {
+        "_id": "kNox#11897",
+        "battleTag": "kNox#11897",
+        "teammates": [
+          {
+            "battleTag": "kNox#11897",
+            "race": "human",
+            "portrait": "p150"
+          }
+        ],
+        "rank": 10,
+        "race": "nightelf",
+        "portrait": "p150",
+        "wins": 701,
+        "losses": 486,
+        "mmr": 5484,
+        "league": "master",
+        "division": 6,
+        "winRate": 59.1,
+        "xp": 12305
+      },
+      {
+        "_id": "Aventurier#279836",
+        "battleTag": "Aventurier#279836",
+        "teammates": [
+          {
+            "battleTag": "Aventurier#279836",
+            "race": "human",
+            "portrait": "p129"
+          }
+        ],
+        "rank": 11,
+        "race": "orc",
+        "portrait": "p129",
+        "wins": 754,
+        "losses": 555,
+        "mmr": 4938,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 57.6,
+        "xp": 11620
+      },
+      {
+        "_id": "bubble#22525",
+        "battleTag": "bubble#22525",
+        "teammates": [
+          {
+            "battleTag": "bubble#22525",
+            "race": "human",
+            "portrait": "p110"
+          }
+        ],
+        "rank": 12,
+        "race": "random",
+        "portrait": "p110",
+        "wins": 615,
+        "losses": 399,
+        "mmr": 5173,
+        "league": "master",
+        "division": 6,
+        "winRate": 60.7,
+        "xp": 11620
+      },
+      {
+        "_id": "ruin#31609",
+        "battleTag": "ruin#31609",
+        "teammates": [
+          {
+            "battleTag": "ruin#31609",
+            "race": "human",
+            "portrait": "p075"
+          }
+        ],
+        "rank": 13,
+        "race": "random",
+        "portrait": "p075",
+        "wins": 431,
+        "losses": 179,
+        "mmr": 5546,
+        "league": "master",
+        "division": 6,
+        "winRate": 70.7,
+        "xp": 11345
+      },
+      {
+        "_id": "Jyn#2530",
+        "battleTag": "Jyn#2530",
+        "teammates": [
+          {
+            "battleTag": "Jyn#2530",
+            "race": "human",
+            "portrait": "p050"
+          }
+        ],
+        "rank": 14,
+        "race": "nightelf",
+        "portrait": "p050",
+        "wins": 604,
+        "losses": 406,
+        "mmr": 5388,
+        "league": "master",
+        "division": 6,
+        "winRate": 59.8,
+        "xp": 11325
+      },
+      {
+        "_id": "Monsieur#21520",
+        "battleTag": "Monsieur#21520",
+        "teammates": [
+          {
+            "battleTag": "Monsieur#21520",
+            "race": "human",
+            "portrait": "p005"
+          }
+        ],
+        "rank": 15,
+        "race": "orc",
+        "portrait": "p005",
+        "wins": 423,
+        "losses": 174,
+        "mmr": 5632,
+        "league": "master",
+        "division": 6,
+        "winRate": 70.9,
+        "xp": 11200
+      },
+      {
+        "_id": "붉은나막신#3758",
+        "battleTag": "붉은나막신#3758",
+        "teammates": [
+          {
+            "battleTag": "붉은나막신#3758",
+            "race": "human",
+            "portrait": "p062"
+          }
+        ],
+        "rank": 16,
+        "race": "orc",
+        "portrait": "p062",
+        "wins": 1714,
+        "losses": 1719,
+        "mmr": 3933,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 49.9,
+        "xp": 11005
+      },
+      {
+        "_id": "balckarm#1928",
+        "battleTag": "balckarm#1928",
+        "teammates": [
+          {
+            "battleTag": "balckarm#1928",
+            "race": "human",
+            "portrait": "p076"
+          }
+        ],
+        "rank": 17,
+        "race": "orc",
+        "portrait": "p076",
+        "wins": 795,
+        "losses": 655,
+        "mmr": 4357,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 54.8,
+        "xp": 10880
+      },
+      {
+        "_id": "JohnFalstaff#1217",
+        "battleTag": "JohnFalstaff#1217",
+        "teammates": [
+          {
+            "battleTag": "JohnFalstaff#1217",
+            "race": "human",
+            "portrait": "p048"
+          }
+        ],
+        "rank": 18,
+        "race": "nightelf",
+        "portrait": "p048",
+        "wins": 987,
+        "losses": 867,
+        "mmr": 4510,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 53.2,
+        "xp": 10745
+      },
+      {
+        "_id": "MassOwn#1977",
+        "battleTag": "MassOwn#1977",
+        "teammates": [
+          {
+            "battleTag": "MassOwn#1977",
+            "race": "human",
+            "portrait": "p087"
+          }
+        ],
+        "rank": 19,
+        "race": "orc",
+        "portrait": "p087",
+        "wins": 371,
+        "losses": 179,
+        "mmr": 5988,
+        "league": "master",
+        "division": 6,
+        "winRate": 67.5,
+        "xp": 10665
+      },
+      {
+        "_id": "GoStop#21755",
+        "battleTag": "GoStop#21755",
+        "teammates": [
+          {
+            "battleTag": "GoStop#21755",
+            "race": "human",
+            "portrait": "p117"
+          }
+        ],
+        "rank": 20,
+        "race": "human",
+        "portrait": "p117",
+        "wins": 487,
+        "losses": 313,
+        "mmr": 5766,
+        "league": "master",
+        "division": 6,
+        "winRate": 60.9,
+        "xp": 10315
+      },
+      {
+        "_id": "미친고양이#316955",
+        "battleTag": "미친고양이#316955",
+        "teammates": [
+          {
+            "battleTag": "미친고양이#316955",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 21,
+        "race": "random",
+        "portrait": "p003",
+        "wins": 2250,
+        "losses": 2382,
+        "mmr": 3704,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 48.6,
+        "xp": 9895
+      },
+      {
+        "_id": "HarveySpect#21926",
+        "battleTag": "HarveySpect#21926",
+        "teammates": [
+          {
+            "battleTag": "HarveySpect#21926",
+            "race": "human",
+            "portrait": "p163"
+          }
+        ],
+        "rank": 22,
+        "race": "nightelf",
+        "portrait": "p163",
+        "wins": 576,
+        "losses": 421,
+        "mmr": 5791,
+        "league": "master",
+        "division": 6,
+        "winRate": 57.8,
+        "xp": 9810
+      },
+      {
+        "_id": "tieusxnlk#3954",
+        "battleTag": "tieusxnlk#3954",
+        "teammates": [
+          {
+            "battleTag": "tieusxnlk#3954",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 23,
+        "race": "orc",
+        "portrait": 0,
+        "wins": 1075,
+        "losses": 1030,
+        "mmr": 4304,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 51.1,
+        "xp": 9570
+      },
+      {
+        "_id": "NavyBear#111590",
+        "battleTag": "NavyBear#111590",
+        "teammates": [
+          {
+            "battleTag": "NavyBear#111590",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 24,
+        "race": "undead",
+        "portrait": 0,
+        "wins": 1499,
+        "losses": 1513,
+        "mmr": 4367,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 49.8,
+        "xp": 9450
+      },
+      {
+        "_id": "평범한주술사#3970",
+        "battleTag": "평범한주술사#3970",
+        "teammates": [
+          {
+            "battleTag": "평범한주술사#3970",
+            "race": "human",
+            "portrait": "p084"
+          }
+        ],
+        "rank": 25,
+        "race": "undead",
+        "portrait": "p084",
+        "wins": 500,
+        "losses": 358,
+        "mmr": 5173,
+        "league": "master",
+        "division": 6,
+        "winRate": 58.3,
+        "xp": 9290
+      }
+    ],
+    "2v2arranged": [
+      {
+        "_id": "Ice#19638",
+        "battleTag": "Ice#19638",
+        "teammates": [
+          {
+            "battleTag": "Ice#19638",
+            "race": "human",
+            "portrait": 0
+          },
+          {
+            "battleTag": "dodo#13811",
+            "race": "human",
+            "portrait": "p128"
+          }
+        ],
+        "rank": 1,
+        "race": "human",
+        "portrait": 0,
+        "wins": 1239,
+        "losses": 463,
+        "mmr": 5027,
+        "league": "master",
+        "division": 6,
+        "winRate": 72.8,
+        "xp": 34300
+      },
+      {
+        "_id": "BNiPoweR#1485",
+        "battleTag": "BNiPoweR#1485",
+        "teammates": [
+          {
+            "battleTag": "BNiPoweR#1485",
+            "race": "human",
+            "portrait": "p071"
+          },
+          {
+            "battleTag": "POON3SS#1512",
+            "race": "human",
+            "portrait": "p018"
+          }
+        ],
+        "rank": 2,
+        "race": "nightelf",
+        "portrait": "p071",
+        "wins": 829,
+        "losses": 246,
+        "mmr": 5601,
+        "league": "master",
+        "division": 6,
+        "winRate": 77.1,
+        "xp": 26365
+      },
+      {
+        "_id": "panghu#21169",
+        "battleTag": "panghu#21169",
+        "teammates": [
+          {
+            "battleTag": "panghu#21169",
+            "race": "human",
+            "portrait": "p103"
+          },
+          {
+            "battleTag": "ThreeBets#1849",
+            "race": "human",
+            "portrait": "p127"
+          }
+        ],
+        "rank": 3,
+        "race": "random",
+        "portrait": "p103",
+        "wins": 696,
+        "losses": 247,
+        "mmr": 3992,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 73.8,
+        "xp": 23270
+      },
+      {
+        "_id": "Jun#1493",
+        "battleTag": "Jun#1493",
+        "teammates": [
+          {
+            "battleTag": "Jun#1493",
+            "race": "human",
+            "portrait": "p001"
+          },
+          {
+            "battleTag": "水手一成#3636",
+            "race": "human",
+            "portrait": "p205"
+          }
+        ],
+        "rank": 4,
+        "race": "human",
+        "portrait": "p001",
+        "wins": 698,
+        "losses": 285,
+        "mmr": 3844,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 71,
+        "xp": 21520
+      },
+      {
+        "_id": "MassOwn#1977",
+        "battleTag": "MassOwn#1977",
+        "teammates": [
+          {
+            "battleTag": "MassOwn#1977",
+            "race": "human",
+            "portrait": "p087"
+          },
+          {
+            "battleTag": "MuscleMike#11122",
+            "race": "human",
+            "portrait": "p097"
+          }
+        ],
+        "rank": 5,
+        "race": "orc",
+        "portrait": "p087",
+        "wins": 552,
+        "losses": 209,
+        "mmr": 5385,
+        "league": "master",
+        "division": 6,
+        "winRate": 72.5,
+        "xp": 19995
+      },
+      {
+        "_id": "풋사과의반쪽#3225",
+        "battleTag": "풋사과의반쪽#3225",
+        "teammates": [
+          {
+            "battleTag": "풋사과의반쪽#3225",
+            "race": "human",
+            "portrait": "p190"
+          },
+          {
+            "battleTag": "OvO#34991",
+            "race": "human",
+            "portrait": "p004"
+          }
+        ],
+        "rank": 6,
+        "race": "nightelf",
+        "portrait": "p190",
+        "wins": 530,
+        "losses": 121,
+        "mmr": 5746,
+        "league": "master",
+        "division": 6,
+        "winRate": 81.4,
+        "xp": 19150
+      },
+      {
+        "_id": "Ban16#11577",
+        "battleTag": "Ban16#11577",
+        "teammates": [
+          {
+            "battleTag": "Ban16#11577",
+            "race": "human",
+            "portrait": "p152"
+          },
+          {
+            "battleTag": "jesselix#1822",
+            "race": "human",
+            "portrait": "p204"
+          }
+        ],
+        "rank": 7,
+        "race": "nightelf",
+        "portrait": "p152",
+        "wins": 945,
+        "losses": 639,
+        "mmr": 3432,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 59.7,
+        "xp": 16825
+      },
+      {
+        "_id": "휴망이#3764",
+        "battleTag": "휴망이#3764",
+        "teammates": [
+          {
+            "battleTag": "휴망이#3764",
+            "race": "human",
+            "portrait": "p093"
+          },
+          {
+            "battleTag": "한예유찬#3134",
+            "race": "human",
+            "portrait": "p085"
+          }
+        ],
+        "rank": 8,
+        "race": "human",
+        "portrait": "p093",
+        "wins": 629,
+        "losses": 308,
+        "mmr": 4477,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 67.1,
+        "xp": 15995
+      },
+      {
+        "_id": "eRRePe#2745",
+        "battleTag": "eRRePe#2745",
+        "teammates": [
+          {
+            "battleTag": "eRRePe#2745",
+            "race": "human",
+            "portrait": "p113"
+          },
+          {
+            "battleTag": "KR1me#21446",
+            "race": "human",
+            "portrait": "p206"
+          }
+        ],
+        "rank": 9,
+        "race": "nightelf",
+        "portrait": "p113",
+        "wins": 578,
+        "losses": 310,
+        "mmr": 5006,
+        "league": "master",
+        "division": 6,
+        "winRate": 65.1,
+        "xp": 15740
+      },
+      {
+        "_id": "herothe4got#2208",
+        "battleTag": "herothe4got#2208",
+        "teammates": [
+          {
+            "battleTag": "herothe4got#2208",
+            "race": "human",
+            "portrait": "p083"
+          },
+          {
+            "battleTag": "Anubis#29423",
+            "race": "human",
+            "portrait": "p112"
+          }
+        ],
+        "rank": 10,
+        "race": "random",
+        "portrait": "p083",
+        "wins": 476,
+        "losses": 144,
+        "mmr": 5390,
+        "league": "master",
+        "division": 6,
+        "winRate": 76.8,
+        "xp": 15400
+      },
+      {
+        "_id": "Recluse#11320",
+        "battleTag": "Recluse#11320",
+        "teammates": [
+          {
+            "battleTag": "Recluse#11320",
+            "race": "human",
+            "portrait": "p129"
+          },
+          {
+            "battleTag": "bigman762#1128",
+            "race": "human",
+            "portrait": "p128"
+          }
+        ],
+        "rank": 11,
+        "race": "random",
+        "portrait": "p129",
+        "wins": 513,
+        "losses": 225,
+        "mmr": 4789,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 69.5,
+        "xp": 14780
+      },
+      {
+        "_id": "Hahasheep#31829",
+        "battleTag": "Hahasheep#31829",
+        "teammates": [
+          {
+            "battleTag": "Hahasheep#31829",
+            "race": "human",
+            "portrait": "p038"
+          },
+          {
+            "battleTag": "PEAN#31801",
+            "race": "human",
+            "portrait": "p127"
+          }
+        ],
+        "rank": 12,
+        "race": "human",
+        "portrait": "p038",
+        "wins": 589,
+        "losses": 384,
+        "mmr": 4547,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 60.5,
+        "xp": 14090
+      },
+      {
+        "_id": "AvEnGeR#1866",
+        "battleTag": "AvEnGeR#1866",
+        "teammates": [
+          {
+            "battleTag": "AvEnGeR#1866",
+            "race": "human",
+            "portrait": "p072"
+          },
+          {
+            "battleTag": "Dominance#21746",
+            "race": "human",
+            "portrait": "p074"
+          }
+        ],
+        "rank": 13,
+        "race": "nightelf",
+        "portrait": "p072",
+        "wins": 316,
+        "losses": 52,
+        "mmr": 5506,
+        "league": "master",
+        "division": 6,
+        "winRate": 85.9,
+        "xp": 13990
+      },
+      {
+        "_id": "herothe4got#2208",
+        "battleTag": "herothe4got#2208",
+        "teammates": [
+          {
+            "battleTag": "herothe4got#2208",
+            "race": "human",
+            "portrait": "p083"
+          },
+          {
+            "battleTag": "gig#21922",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 14,
+        "race": "random",
+        "portrait": "p083",
+        "wins": 424,
+        "losses": 133,
+        "mmr": 5244,
+        "league": "master",
+        "division": 6,
+        "winRate": 76.1,
+        "xp": 13585
+      },
+      {
+        "_id": "KOREAKOREA#1357",
+        "battleTag": "KOREAKOREA#1357",
+        "teammates": [
+          {
+            "battleTag": "KOREAKOREA#1357",
+            "race": "human",
+            "portrait": "p090"
+          },
+          {
+            "battleTag": "PeNguiN#14419",
+            "race": "human",
+            "portrait": "p203"
+          }
+        ],
+        "rank": 15,
+        "race": "orc",
+        "portrait": "p090",
+        "wins": 433,
+        "losses": 260,
+        "mmr": 4946,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 62.5,
+        "xp": 13450
+      },
+      {
+        "_id": "hayato#3494",
+        "battleTag": "hayato#3494",
+        "teammates": [
+          {
+            "battleTag": "hayato#3494",
+            "race": "human",
+            "portrait": "p084"
+          },
+          {
+            "battleTag": "잘부탁드립니다#31701",
+            "race": "human",
+            "portrait": "p187"
+          }
+        ],
+        "rank": 16,
+        "race": "orc",
+        "portrait": "p084",
+        "wins": 325,
+        "losses": 42,
+        "mmr": 6093,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 88.6,
+        "xp": 12870
+      },
+      {
+        "_id": "Kiezel#1932",
+        "battleTag": "Kiezel#1932",
+        "teammates": [
+          {
+            "battleTag": "Kiezel#1932",
+            "race": "human",
+            "portrait": "p207"
+          },
+          {
+            "battleTag": "ikbencool#2603",
+            "race": "human",
+            "portrait": "p124"
+          }
+        ],
+        "rank": 17,
+        "race": "human",
+        "portrait": "p207",
+        "wins": 363,
+        "losses": 157,
+        "mmr": 5025,
+        "league": "master",
+        "division": 6,
+        "winRate": 69.8,
+        "xp": 12555
+      },
+      {
+        "_id": "LunaMainT#3213",
+        "battleTag": "LunaMainT#3213",
+        "teammates": [
+          {
+            "battleTag": "LunaMainT#3213",
+            "race": "human",
+            "portrait": "p128"
+          },
+          {
+            "battleTag": "Astra#31286",
+            "race": "human",
+            "portrait": "p004"
+          }
+        ],
+        "rank": 18,
+        "race": "orc",
+        "portrait": "p128",
+        "wins": 328,
+        "losses": 92,
+        "mmr": 6044,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 78.1,
+        "xp": 12430
+      },
+      {
+        "_id": "OzeTobi#2339",
+        "battleTag": "OzeTobi#2339",
+        "teammates": [
+          {
+            "battleTag": "OzeTobi#2339",
+            "race": "human",
+            "portrait": 0
+          },
+          {
+            "battleTag": "WhoMadeWho#21578",
+            "race": "human",
+            "portrait": "p052"
+          }
+        ],
+        "rank": 19,
+        "race": "orc",
+        "portrait": 0,
+        "wins": 277,
+        "losses": 52,
+        "mmr": 5671,
+        "league": "master",
+        "division": 6,
+        "winRate": 84.2,
+        "xp": 12420
+      },
+      {
+        "_id": "Tekko1012#2394",
+        "battleTag": "Tekko1012#2394",
+        "teammates": [
+          {
+            "battleTag": "Tekko1012#2394",
+            "race": "human",
+            "portrait": "p029"
+          },
+          {
+            "battleTag": "FpX#2323",
+            "race": "human",
+            "portrait": "p192"
+          }
+        ],
+        "rank": 20,
+        "race": "nightelf",
+        "portrait": "p029",
+        "wins": 264,
+        "losses": 113,
+        "mmr": 5651,
+        "league": "master",
+        "division": 6,
+        "winRate": 70,
+        "xp": 12230
+      },
+      {
+        "_id": "MassOwn#1977",
+        "battleTag": "MassOwn#1977",
+        "teammates": [
+          {
+            "battleTag": "MassOwn#1977",
+            "race": "human",
+            "portrait": "p087"
+          },
+          {
+            "battleTag": "EbonGhost#15742",
+            "race": "human",
+            "portrait": "p118"
+          }
+        ],
+        "rank": 21,
+        "race": "orc",
+        "portrait": "p087",
+        "wins": 262,
+        "losses": 58,
+        "mmr": 5435,
+        "league": "master",
+        "division": 6,
+        "winRate": 81.9,
+        "xp": 11985
+      },
+      {
+        "_id": "ok49#3764",
+        "battleTag": "ok49#3764",
+        "teammates": [
+          {
+            "battleTag": "ok49#3764",
+            "race": "human",
+            "portrait": 0
+          },
+          {
+            "battleTag": "yuzhouwanwu#3937",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 22,
+        "race": "undead",
+        "portrait": 0,
+        "wins": 767,
+        "losses": 637,
+        "mmr": 3880,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 54.6,
+        "xp": 11935
+      },
+      {
+        "_id": "Nooby4N#21735",
+        "battleTag": "Nooby4N#21735",
+        "teammates": [
+          {
+            "battleTag": "Nooby4N#21735",
+            "race": "human",
+            "portrait": "p203"
+          },
+          {
+            "battleTag": "Reaver#22131",
+            "race": "human",
+            "portrait": "p092"
+          }
+        ],
+        "rank": 23,
+        "race": "human",
+        "portrait": "p203",
+        "wins": 352,
+        "losses": 110,
+        "mmr": 4809,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 76.2,
+        "xp": 11845
+      },
+      {
+        "_id": "hrDG#2188",
+        "battleTag": "hrDG#2188",
+        "teammates": [
+          {
+            "battleTag": "hrDG#2188",
+            "race": "human",
+            "portrait": "p053"
+          },
+          {
+            "battleTag": "HarveySpect#21926",
+            "race": "human",
+            "portrait": "p163"
+          }
+        ],
+        "rank": 24,
+        "race": "nightelf",
+        "portrait": "p053",
+        "wins": 293,
+        "losses": 126,
+        "mmr": 5208,
+        "league": "master",
+        "division": 6,
+        "winRate": 69.9,
+        "xp": 11500
+      },
+      {
+        "_id": "L1Yeah#1725",
+        "battleTag": "L1Yeah#1725",
+        "teammates": [
+          {
+            "battleTag": "L1Yeah#1725",
+            "race": "human",
+            "portrait": "p106"
+          },
+          {
+            "battleTag": "PhantomF#11276",
+            "race": "human",
+            "portrait": "p024"
+          }
+        ],
+        "rank": 25,
+        "race": "undead",
+        "portrait": "p106",
+        "wins": 478,
+        "losses": 319,
+        "mmr": 3540,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 60,
+        "xp": 11330
+      }
+    ],
+    "3v3": [
+      {
+        "_id": "YuL#31491",
+        "battleTag": "YuL#31491",
+        "teammates": [
+          {
+            "battleTag": "YuL#31491",
+            "race": "human",
+            "portrait": "p118"
+          }
+        ],
+        "rank": 1,
+        "race": "random",
+        "portrait": "p118",
+        "wins": 975,
+        "losses": 229,
+        "mmr": 8649,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 81,
+        "xp": 30945
+      },
+      {
+        "_id": "양파토끼#3643",
+        "battleTag": "양파토끼#3643",
+        "teammates": [
+          {
+            "battleTag": "양파토끼#3643",
+            "race": "human",
+            "portrait": "p072"
+          }
+        ],
+        "rank": 2,
+        "race": "human",
+        "portrait": "p072",
+        "wins": 945,
+        "losses": 211,
+        "mmr": 9207,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 81.7,
+        "xp": 30375
+      },
+      {
+        "_id": "SexyBeard#11361",
+        "battleTag": "SexyBeard#11361",
+        "teammates": [
+          {
+            "battleTag": "SexyBeard#11361",
+            "race": "human",
+            "portrait": "p098"
+          }
+        ],
+        "rank": 3,
+        "race": "orc",
+        "portrait": "p098",
+        "wins": 2209,
+        "losses": 1690,
+        "mmr": 3918,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 56.7,
+        "xp": 29175
+      },
+      {
+        "_id": "ShipKraken#3271",
+        "battleTag": "ShipKraken#3271",
+        "teammates": [
+          {
+            "battleTag": "ShipKraken#3271",
+            "race": "human",
+            "portrait": "p072"
+          }
+        ],
+        "rank": 4,
+        "race": "human",
+        "portrait": "p072",
+        "wins": 1650,
+        "losses": 1106,
+        "mmr": 4650,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 59.9,
+        "xp": 27285
+      },
+      {
+        "_id": "DarkGoGi#31326",
+        "battleTag": "DarkGoGi#31326",
+        "teammates": [
+          {
+            "battleTag": "DarkGoGi#31326",
+            "race": "human",
+            "portrait": "p108"
+          }
+        ],
+        "rank": 5,
+        "race": "undead",
+        "portrait": "p108",
+        "wins": 1866,
+        "losses": 1383,
+        "mmr": 5798,
+        "league": "master",
+        "division": 6,
+        "winRate": 57.4,
+        "xp": 26470
+      },
+      {
+        "_id": "crazylalala#3392",
+        "battleTag": "crazylalala#3392",
+        "teammates": [
+          {
+            "battleTag": "crazylalala#3392",
+            "race": "human",
+            "portrait": "p042"
+          }
+        ],
+        "rank": 6,
+        "race": "random",
+        "portrait": "p042",
+        "wins": 1664,
+        "losses": 1193,
+        "mmr": 5256,
+        "league": "master",
+        "division": 6,
+        "winRate": 58.2,
+        "xp": 24840
+      },
+      {
+        "_id": "Axl#22347",
+        "battleTag": "Axl#22347",
+        "teammates": [
+          {
+            "battleTag": "Axl#22347",
+            "race": "human",
+            "portrait": "p128"
+          }
+        ],
+        "rank": 7,
+        "race": "nightelf",
+        "portrait": "p128",
+        "wins": 1612,
+        "losses": 1202,
+        "mmr": 4238,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 57.3,
+        "xp": 22550
+      },
+      {
+        "_id": "아더스#3687",
+        "battleTag": "아더스#3687",
+        "teammates": [
+          {
+            "battleTag": "아더스#3687",
+            "race": "human",
+            "portrait": "p007"
+          }
+        ],
+        "rank": 8,
+        "race": "random",
+        "portrait": "p007",
+        "wins": 1692,
+        "losses": 1323,
+        "mmr": 4157,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 56.1,
+        "xp": 21335
+      },
+      {
+        "_id": "영배#31550",
+        "battleTag": "영배#31550",
+        "teammates": [
+          {
+            "battleTag": "영배#31550",
+            "race": "human",
+            "portrait": "p201"
+          }
+        ],
+        "rank": 9,
+        "race": "random",
+        "portrait": "p201",
+        "wins": 2070,
+        "losses": 1778,
+        "mmr": 3314,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 53.8,
+        "xp": 20765
+      },
+      {
+        "_id": "Koboi#11370",
+        "battleTag": "Koboi#11370",
+        "teammates": [
+          {
+            "battleTag": "Koboi#11370",
+            "race": "human",
+            "portrait": "p113"
+          }
+        ],
+        "rank": 10,
+        "race": "random",
+        "portrait": "p113",
+        "wins": 667,
+        "losses": 181,
+        "mmr": 6002,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 78.7,
+        "xp": 20380
+      },
+      {
+        "_id": "meditation#31135",
+        "battleTag": "meditation#31135",
+        "teammates": [
+          {
+            "battleTag": "meditation#31135",
+            "race": "human",
+            "portrait": "p090"
+          }
+        ],
+        "rank": 11,
+        "race": "human",
+        "portrait": "p090",
+        "wins": 1764,
+        "losses": 1453,
+        "mmr": 4150,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 54.8,
+        "xp": 20000
+      },
+      {
+        "_id": "NICESIN2#3482",
+        "battleTag": "NICESIN2#3482",
+        "teammates": [
+          {
+            "battleTag": "NICESIN2#3482",
+            "race": "human",
+            "portrait": "p113"
+          }
+        ],
+        "rank": 12,
+        "race": "random",
+        "portrait": "p113",
+        "wins": 1307,
+        "losses": 924,
+        "mmr": 6363,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 58.6,
+        "xp": 19975
+      },
+      {
+        "_id": "바람#33189",
+        "battleTag": "바람#33189",
+        "teammates": [
+          {
+            "battleTag": "바람#33189",
+            "race": "human",
+            "portrait": "p113"
+          }
+        ],
+        "rank": 13,
+        "race": "human",
+        "portrait": "p113",
+        "wins": 628,
+        "losses": 174,
+        "mmr": 6025,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 78.3,
+        "xp": 18990
+      },
+      {
+        "_id": "NeVeRFLeX#11734",
+        "battleTag": "NeVeRFLeX#11734",
+        "teammates": [
+          {
+            "battleTag": "NeVeRFLeX#11734",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 14,
+        "race": "random",
+        "portrait": 0,
+        "wins": 730,
+        "losses": 296,
+        "mmr": 5073,
+        "league": "master",
+        "division": 6,
+        "winRate": 71.2,
+        "xp": 18920
+      },
+      {
+        "_id": "DoSa#31427",
+        "battleTag": "DoSa#31427",
+        "teammates": [
+          {
+            "battleTag": "DoSa#31427",
+            "race": "human",
+            "portrait": "p076"
+          }
+        ],
+        "rank": 15,
+        "race": "random",
+        "portrait": "p076",
+        "wins": 561,
+        "losses": 102,
+        "mmr": 6851,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 84.6,
+        "xp": 18905
+      },
+      {
+        "_id": "Drallich#1116",
+        "battleTag": "Drallich#1116",
+        "teammates": [
+          {
+            "battleTag": "Drallich#1116",
+            "race": "human",
+            "portrait": "p163"
+          }
+        ],
+        "rank": 16,
+        "race": "human",
+        "portrait": "p163",
+        "wins": 1209,
+        "losses": 857,
+        "mmr": 3826,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 58.5,
+        "xp": 18325
+      },
+      {
+        "_id": "Axl#22347",
+        "battleTag": "Axl#22347",
+        "teammates": [
+          {
+            "battleTag": "Axl#22347",
+            "race": "human",
+            "portrait": "p050"
+          }
+        ],
+        "rank": 17,
+        "race": "nightelf",
+        "portrait": "p050",
+        "wins": 824,
+        "losses": 437,
+        "mmr": 5101,
+        "league": "master",
+        "division": 6,
+        "winRate": 65.3,
+        "xp": 17655
+      },
+      {
+        "_id": "Listener#3611",
+        "battleTag": "Listener#3611",
+        "teammates": [
+          {
+            "battleTag": "Listener#3611",
+            "race": "human",
+            "portrait": "p022"
+          }
+        ],
+        "rank": 18,
+        "race": "undead",
+        "portrait": "p022",
+        "wins": 550,
+        "losses": 138,
+        "mmr": 6287,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 79.9,
+        "xp": 17205
+      },
+      {
+        "_id": "hayato#3494",
+        "battleTag": "hayato#3494",
+        "teammates": [
+          {
+            "battleTag": "hayato#3494",
+            "race": "human",
+            "portrait": "p084"
+          }
+        ],
+        "rank": 19,
+        "race": "undead",
+        "portrait": "p084",
+        "wins": 510,
+        "losses": 95,
+        "mmr": 6859,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 84.3,
+        "xp": 17180
+      },
+      {
+        "_id": "Ikimono#1474",
+        "battleTag": "Ikimono#1474",
+        "teammates": [
+          {
+            "battleTag": "Ikimono#1474",
+            "race": "human",
+            "portrait": "p088"
+          }
+        ],
+        "rank": 20,
+        "race": "random",
+        "portrait": "p088",
+        "wins": 1296,
+        "losses": 992,
+        "mmr": 3473,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 56.6,
+        "xp": 17155
+      },
+      {
+        "_id": "george#15869",
+        "battleTag": "george#15869",
+        "teammates": [
+          {
+            "battleTag": "george#15869",
+            "race": "human",
+            "portrait": "p113"
+          }
+        ],
+        "rank": 21,
+        "race": "random",
+        "portrait": "p113",
+        "wins": 1740,
+        "losses": 1516,
+        "mmr": 3065,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 53.4,
+        "xp": 16575
+      },
+      {
+        "_id": "sunuz#31498",
+        "battleTag": "sunuz#31498",
+        "teammates": [
+          {
+            "battleTag": "sunuz#31498",
+            "race": "human",
+            "portrait": "p108"
+          }
+        ],
+        "rank": 22,
+        "race": "undead",
+        "portrait": "p108",
+        "wins": 659,
+        "losses": 285,
+        "mmr": 5480,
+        "league": "master",
+        "division": 6,
+        "winRate": 69.8,
+        "xp": 16345
+      },
+      {
+        "_id": "langman#31176",
+        "battleTag": "langman#31176",
+        "teammates": [
+          {
+            "battleTag": "langman#31176",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 23,
+        "race": "random",
+        "portrait": "p003",
+        "wins": 1209,
+        "losses": 921,
+        "mmr": 3962,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 56.8,
+        "xp": 16175
+      },
+      {
+        "_id": "수닷이#3222",
+        "battleTag": "수닷이#3222",
+        "teammates": [
+          {
+            "battleTag": "수닷이#3222",
+            "race": "human",
+            "portrait": "p051"
+          }
+        ],
+        "rank": 24,
+        "race": "human",
+        "portrait": "p051",
+        "wins": 558,
+        "losses": 186,
+        "mmr": 6032,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 75,
+        "xp": 15770
+      },
+      {
+        "_id": "발업질럿#31747",
+        "battleTag": "발업질럿#31747",
+        "teammates": [
+          {
+            "battleTag": "발업질럿#31747",
+            "race": "human",
+            "portrait": "p098"
+          }
+        ],
+        "rank": 25,
+        "race": "orc",
+        "portrait": "p098",
+        "wins": 1242,
+        "losses": 972,
+        "mmr": 4386,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 56.1,
+        "xp": 15680
+      }
+    ],
+    "3v3arranged": [
+      {
+        "_id": "cH1LLeR#2698",
+        "battleTag": "cH1LLeR#2698",
+        "teammates": [
+          {
+            "battleTag": "cH1LLeR#2698",
+            "race": "human",
+            "portrait": "p134"
+          },
+          {
+            "battleTag": "OldBoy#21370",
+            "race": "human",
+            "portrait": "p120"
+          },
+          {
+            "battleTag": "NfacSahne#2469",
+            "race": "human",
+            "portrait": "p068"
+          }
+        ],
+        "rank": 1,
+        "race": "human",
+        "portrait": "p134",
+        "wins": 320,
+        "losses": 3,
+        "mmr": 6000,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 99.1,
+        "xp": 12720
+      },
+      {
+        "_id": "cH1LLeR#2698",
+        "battleTag": "cH1LLeR#2698",
+        "teammates": [
+          {
+            "battleTag": "cH1LLeR#2698",
+            "race": "human",
+            "portrait": "p134"
+          },
+          {
+            "battleTag": "GoStop#21755",
+            "race": "human",
+            "portrait": "p117"
+          },
+          {
+            "battleTag": "NfacSahne#2469",
+            "race": "human",
+            "portrait": "p068"
+          }
+        ],
+        "rank": 2,
+        "race": "human",
+        "portrait": "p134",
+        "wins": 321,
+        "losses": 4,
+        "mmr": 5649,
+        "league": "master",
+        "division": 6,
+        "winRate": 98.8,
+        "xp": 12700
+      },
+      {
+        "_id": "JunGle#1724",
+        "battleTag": "JunGle#1724",
+        "teammates": [
+          {
+            "battleTag": "JunGle#1724",
+            "race": "human",
+            "portrait": "p203"
+          },
+          {
+            "battleTag": "TwisteR#22120",
+            "race": "human",
+            "portrait": "p205"
+          },
+          {
+            "battleTag": "Chao7ic#2873",
+            "race": "human",
+            "portrait": "p004"
+          }
+        ],
+        "rank": 3,
+        "race": "nightelf",
+        "portrait": "p203",
+        "wins": 123,
+        "losses": 4,
+        "mmr": 5318,
+        "league": "master",
+        "division": 6,
+        "winRate": 96.9,
+        "xp": 4840
+      },
+      {
+        "_id": "Invigorate#21720",
+        "battleTag": "Invigorate#21720",
+        "teammates": [
+          {
+            "battleTag": "Invigorate#21720",
+            "race": "human",
+            "portrait": "p119"
+          },
+          {
+            "battleTag": "LvL70Mage#1624",
+            "race": "human",
+            "portrait": "p119"
+          },
+          {
+            "battleTag": "Siberia#21832",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 4,
+        "race": "random",
+        "portrait": "p119",
+        "wins": 65,
+        "losses": 11,
+        "mmr": 5294,
+        "league": "master",
+        "division": 6,
+        "winRate": 85.5,
+        "xp": 2610
+      },
+      {
+        "_id": "BloodBath#12237",
+        "battleTag": "BloodBath#12237",
+        "teammates": [
+          {
+            "battleTag": "BloodBath#12237",
+            "race": "human",
+            "portrait": "p203"
+          },
+          {
+            "battleTag": "Marrdreg#1565",
+            "race": "human",
+            "portrait": "p203"
+          },
+          {
+            "battleTag": "UrJoshuaTree#2795",
+            "race": "human",
+            "portrait": "p203"
+          }
+        ],
+        "rank": 5,
+        "race": "random",
+        "portrait": "p203",
+        "wins": 61,
+        "losses": 5,
+        "mmr": 4503,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 92.4,
+        "xp": 2450
+      },
+      {
+        "_id": "cH1LLeR#2698",
+        "battleTag": "cH1LLeR#2698",
+        "teammates": [
+          {
+            "battleTag": "cH1LLeR#2698",
+            "race": "human",
+            "portrait": "p134"
+          },
+          {
+            "battleTag": "Veritas#2973",
+            "race": "human",
+            "portrait": "p194"
+          },
+          {
+            "battleTag": "NfacSahne#2469",
+            "race": "human",
+            "portrait": "p068"
+          }
+        ],
+        "rank": 6,
+        "race": "human",
+        "portrait": "p134",
+        "wins": 55,
+        "losses": 0,
+        "mmr": 5457,
+        "league": "master",
+        "division": 6,
+        "winRate": 100,
+        "xp": 2440
+      },
+      {
+        "_id": "ShagaWaga#2310",
+        "battleTag": "ShagaWaga#2310",
+        "teammates": [
+          {
+            "battleTag": "ShagaWaga#2310",
+            "race": "human",
+            "portrait": "p038"
+          },
+          {
+            "battleTag": "lordniken#2366",
+            "race": "human",
+            "portrait": "p112"
+          },
+          {
+            "battleTag": "Bloodrun#21895",
+            "race": "human",
+            "portrait": "p029"
+          }
+        ],
+        "rank": 7,
+        "race": "human",
+        "portrait": "p038",
+        "wins": 133,
+        "losses": 135,
+        "mmr": 4315,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 49.6,
+        "xp": 1890
+      },
+      {
+        "_id": "o13L1#2332",
+        "battleTag": "o13L1#2332",
+        "teammates": [
+          {
+            "battleTag": "o13L1#2332",
+            "race": "human",
+            "portrait": "p112"
+          },
+          {
+            "battleTag": "Nysix#2310",
+            "race": "human",
+            "portrait": "p128"
+          },
+          {
+            "battleTag": "newBNET#2465",
+            "race": "human",
+            "portrait": "p032"
+          }
+        ],
+        "rank": 8,
+        "race": "human",
+        "portrait": "p112",
+        "wins": 41,
+        "losses": 7,
+        "mmr": 5103,
+        "league": "master",
+        "division": 6,
+        "winRate": 85.4,
+        "xp": 1755
+      },
+      {
+        "_id": "Comi#2455",
+        "battleTag": "Comi#2455",
+        "teammates": [
+          {
+            "battleTag": "Comi#2455",
+            "race": "human",
+            "portrait": "p096"
+          },
+          {
+            "battleTag": "Stolat#1314",
+            "race": "human",
+            "portrait": "p031"
+          },
+          {
+            "battleTag": "Tsomo#21824",
+            "race": "human",
+            "portrait": "p102"
+          }
+        ],
+        "rank": 9,
+        "race": "nightelf",
+        "portrait": "p096",
+        "wins": 69,
+        "losses": 39,
+        "mmr": 4283,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 63.9,
+        "xp": 1745
+      },
+      {
+        "_id": "cH1LLeR#2698",
+        "battleTag": "cH1LLeR#2698",
+        "teammates": [
+          {
+            "battleTag": "cH1LLeR#2698",
+            "race": "human",
+            "portrait": "p134"
+          },
+          {
+            "battleTag": "CrSkFiRe#2891",
+            "race": "human",
+            "portrait": "p055"
+          },
+          {
+            "battleTag": "GoStop#21755",
+            "race": "human",
+            "portrait": "p117"
+          }
+        ],
+        "rank": 10,
+        "race": "orc",
+        "portrait": "p134",
+        "wins": 30,
+        "losses": 0,
+        "mmr": 5575,
+        "league": "master",
+        "division": 6,
+        "winRate": 100,
+        "xp": 1420
+      },
+      {
+        "_id": "OHYEAH#21243",
+        "battleTag": "OHYEAH#21243",
+        "teammates": [
+          {
+            "battleTag": "OHYEAH#21243",
+            "race": "human",
+            "portrait": "p071"
+          },
+          {
+            "battleTag": "JunGle#1724",
+            "race": "human",
+            "portrait": "p203"
+          },
+          {
+            "battleTag": "TwisteR#22120",
+            "race": "human",
+            "portrait": "p205"
+          }
+        ],
+        "rank": 11,
+        "race": "orc",
+        "portrait": "p071",
+        "wins": 29,
+        "losses": 0,
+        "mmr": 5022,
+        "league": "master",
+        "division": 6,
+        "winRate": 100,
+        "xp": 1260
+      },
+      {
+        "_id": "KLW#2498",
+        "battleTag": "KLW#2498",
+        "teammates": [
+          {
+            "battleTag": "KLW#2498",
+            "race": "human",
+            "portrait": "p079"
+          },
+          {
+            "battleTag": "phatberg#2861",
+            "race": "human",
+            "portrait": "p092"
+          },
+          {
+            "battleTag": "garlindo#1121",
+            "race": "human",
+            "portrait": "p193"
+          }
+        ],
+        "rank": 12,
+        "race": "orc",
+        "portrait": "p079",
+        "wins": 37,
+        "losses": 19,
+        "mmr": 4386,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 66.1,
+        "xp": 1140
+      },
+      {
+        "_id": "OHYEAH#21243",
+        "battleTag": "OHYEAH#21243",
+        "teammates": [
+          {
+            "battleTag": "OHYEAH#21243",
+            "race": "human",
+            "portrait": "p071"
+          },
+          {
+            "battleTag": "JunGle#1724",
+            "race": "human",
+            "portrait": "p203"
+          },
+          {
+            "battleTag": "Chao7ic#2873",
+            "race": "human",
+            "portrait": "p004"
+          }
+        ],
+        "rank": 13,
+        "race": "random",
+        "portrait": "p071",
+        "wins": 20,
+        "losses": 0,
+        "mmr": 4988,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 100,
+        "xp": 1080
+      },
+      {
+        "_id": "BloodBath#12237",
+        "battleTag": "BloodBath#12237",
+        "teammates": [
+          {
+            "battleTag": "BloodBath#12237",
+            "race": "human",
+            "portrait": "p203"
+          },
+          {
+            "battleTag": "UrJoshuaTree#2795",
+            "race": "human",
+            "portrait": "p203"
+          },
+          {
+            "battleTag": "Raindrech#1449",
+            "race": "human",
+            "portrait": "p128"
+          }
+        ],
+        "rank": 14,
+        "race": "random",
+        "portrait": "p203",
+        "wins": 26,
+        "losses": 0,
+        "mmr": 4846,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 100,
+        "xp": 1080
+      },
+      {
+        "_id": "YOOOOOOOOO#21376",
+        "battleTag": "YOOOOOOOOO#21376",
+        "teammates": [
+          {
+            "battleTag": "YOOOOOOOOO#21376",
+            "race": "human",
+            "portrait": "p103"
+          },
+          {
+            "battleTag": "cH1LLeR#2698",
+            "race": "human",
+            "portrait": "p134"
+          },
+          {
+            "battleTag": "zlAy#2247",
+            "race": "human",
+            "portrait": "p086"
+          }
+        ],
+        "rank": 15,
+        "race": "nightelf",
+        "portrait": "p103",
+        "wins": 25,
+        "losses": 0,
+        "mmr": 5380,
+        "league": "master",
+        "division": 6,
+        "winRate": 100,
+        "xp": 1040
+      },
+      {
+        "_id": "CrSkFiRe#2891",
+        "battleTag": "CrSkFiRe#2891",
+        "teammates": [
+          {
+            "battleTag": "CrSkFiRe#2891",
+            "race": "human",
+            "portrait": "p055"
+          },
+          {
+            "battleTag": "Shaky#21680",
+            "race": "human",
+            "portrait": "p044"
+          },
+          {
+            "battleTag": "Havoline#21114",
+            "race": "human",
+            "portrait": "p081"
+          }
+        ],
+        "rank": 16,
+        "race": "undead",
+        "portrait": "p055",
+        "wins": 20,
+        "losses": 1,
+        "mmr": 5308,
+        "league": "master",
+        "division": 6,
+        "winRate": 95.2,
+        "xp": 980
+      },
+      {
+        "_id": "Peter#25502",
+        "battleTag": "Peter#25502",
+        "teammates": [
+          {
+            "battleTag": "Peter#25502",
+            "race": "human",
+            "portrait": "p130"
+          },
+          {
+            "battleTag": "Luisbacalov#2373",
+            "race": "human",
+            "portrait": "p129"
+          },
+          {
+            "battleTag": "BlackSword#22137",
+            "race": "human",
+            "portrait": "p139"
+          }
+        ],
+        "rank": 17,
+        "race": "random",
+        "portrait": "p130",
+        "wins": 27,
+        "losses": 8,
+        "mmr": 4324,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 77.1,
+        "xp": 970
+      },
+      {
+        "_id": "lizZard#21826",
+        "battleTag": "lizZard#21826",
+        "teammates": [
+          {
+            "battleTag": "lizZard#21826",
+            "race": "human",
+            "portrait": "p068"
+          },
+          {
+            "battleTag": "WolFFang#1580",
+            "race": "human",
+            "portrait": "p051"
+          },
+          {
+            "battleTag": "AdoBado#2790",
+            "race": "human",
+            "portrait": "p042"
+          }
+        ],
+        "rank": 18,
+        "race": "undead",
+        "portrait": "p068",
+        "wins": 36,
+        "losses": 30,
+        "mmr": 4311,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 54.5,
+        "xp": 970
+      },
+      {
+        "_id": "Kosmos87#2286",
+        "battleTag": "Kosmos87#2286",
+        "teammates": [
+          {
+            "battleTag": "Kosmos87#2286",
+            "race": "human",
+            "portrait": "p129"
+          },
+          {
+            "battleTag": "VladiZ#21778",
+            "race": "human",
+            "portrait": "p052"
+          },
+          {
+            "battleTag": "RocketRide#21751",
+            "race": "human",
+            "portrait": "p088"
+          }
+        ],
+        "rank": 19,
+        "race": "random",
+        "portrait": "p129",
+        "wins": 24,
+        "losses": 14,
+        "mmr": 4505,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 63.2,
+        "xp": 835
+      },
+      {
+        "_id": "Ant4life#2918",
+        "battleTag": "Ant4life#2918",
+        "teammates": [
+          {
+            "battleTag": "Ant4life#2918",
+            "race": "human",
+            "portrait": "p069"
+          },
+          {
+            "battleTag": "Sh0wdown#2396",
+            "race": "human",
+            "portrait": "p083"
+          },
+          {
+            "battleTag": "Korbi#2319",
+            "race": "human",
+            "portrait": "p071"
+          }
+        ],
+        "rank": 20,
+        "race": "human",
+        "portrait": "p069",
+        "wins": 31,
+        "losses": 18,
+        "mmr": 3956,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 63.3,
+        "xp": 835
+      },
+      {
+        "_id": "Taake#21662",
+        "battleTag": "Taake#21662",
+        "teammates": [
+          {
+            "battleTag": "Taake#21662",
+            "race": "human",
+            "portrait": "p016"
+          },
+          {
+            "battleTag": "kAmiKaZeBiLL#2854",
+            "race": "human",
+            "portrait": "p015"
+          },
+          {
+            "battleTag": "JumpyWizard#2202208",
+            "race": "human",
+            "portrait": "p056"
+          }
+        ],
+        "rank": 21,
+        "race": "nightelf",
+        "portrait": "p016",
+        "wins": 19,
+        "losses": 3,
+        "mmr": 4871,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 86.4,
+        "xp": 800
+      },
+      {
+        "_id": "BloodBath#12237",
+        "battleTag": "BloodBath#12237",
+        "teammates": [
+          {
+            "battleTag": "BloodBath#12237",
+            "race": "human",
+            "portrait": "p203"
+          },
+          {
+            "battleTag": "Marrdreg#1565",
+            "race": "human",
+            "portrait": "p203"
+          },
+          {
+            "battleTag": "Kazutrash#1691",
+            "race": "human",
+            "portrait": "p108"
+          }
+        ],
+        "rank": 22,
+        "race": "undead",
+        "portrait": "p203",
+        "wins": 17,
+        "losses": 1,
+        "mmr": 4419,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 94.4,
+        "xp": 665
+      },
+      {
+        "_id": "beka10#2862",
+        "battleTag": "beka10#2862",
+        "teammates": [
+          {
+            "battleTag": "beka10#2862",
+            "race": "human",
+            "portrait": "p089"
+          },
+          {
+            "battleTag": "Exca#2795",
+            "race": "human",
+            "portrait": "p045"
+          },
+          {
+            "battleTag": "twincraft2#2230",
+            "race": "human",
+            "portrait": "p038"
+          }
+        ],
+        "rank": 23,
+        "race": "orc",
+        "portrait": "p089",
+        "wins": 25,
+        "losses": 21,
+        "mmr": 4127,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 54.3,
+        "xp": 645
+      },
+      {
+        "_id": "Darkness#26456",
+        "battleTag": "Darkness#26456",
+        "teammates": [
+          {
+            "battleTag": "Darkness#26456",
+            "race": "human",
+            "portrait": "p207"
+          },
+          {
+            "battleTag": "Paxa#21950",
+            "race": "human",
+            "portrait": "p057"
+          },
+          {
+            "battleTag": "Nase#21778",
+            "race": "human",
+            "portrait": "p207"
+          }
+        ],
+        "rank": 24,
+        "race": "human",
+        "portrait": "p207",
+        "wins": 15,
+        "losses": 1,
+        "mmr": 4573,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 93.8,
+        "xp": 600
+      },
+      {
+        "_id": "LvL70Mage#1624",
+        "battleTag": "LvL70Mage#1624",
+        "teammates": [
+          {
+            "battleTag": "LvL70Mage#1624",
+            "race": "human",
+            "portrait": "p119"
+          },
+          {
+            "battleTag": "ikbencool#2603",
+            "race": "human",
+            "portrait": "p124"
+          },
+          {
+            "battleTag": "Phynn9o#2294",
+            "race": "human",
+            "portrait": "p112"
+          }
+        ],
+        "rank": 25,
+        "race": "random",
+        "portrait": "p119",
+        "wins": 12,
+        "losses": 0,
+        "mmr": 5121,
+        "league": "master",
+        "division": 6,
+        "winRate": 100,
+        "xp": 580
+      }
+    ],
+    "4v4": [
+      {
+        "_id": "Andross#1523",
+        "battleTag": "Andross#1523",
+        "teammates": [
+          {
+            "battleTag": "Andross#1523",
+            "race": "human",
+            "portrait": "p038"
+          }
+        ],
+        "rank": 1,
+        "race": "orc",
+        "portrait": "p038",
+        "wins": 2211,
+        "losses": 686,
+        "mmr": 8023,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 76.3,
+        "xp": 64390
+      },
+      {
+        "_id": "Architect#22534",
+        "battleTag": "Architect#22534",
+        "teammates": [
+          {
+            "battleTag": "Architect#22534",
+            "race": "human",
+            "portrait": "p108"
+          }
+        ],
+        "rank": 2,
+        "race": "undead",
+        "portrait": "p108",
+        "wins": 2586,
+        "losses": 1400,
+        "mmr": 5835,
+        "league": "master",
+        "division": 6,
+        "winRate": 64.9,
+        "xp": 54400
+      },
+      {
+        "_id": "SonKiE#1704",
+        "battleTag": "SonKiE#1704",
+        "teammates": [
+          {
+            "battleTag": "SonKiE#1704",
+            "race": "human",
+            "portrait": "p072"
+          }
+        ],
+        "rank": 3,
+        "race": "human",
+        "portrait": "p072",
+        "wins": 920,
+        "losses": 187,
+        "mmr": 8727,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 83.1,
+        "xp": 30215
+      },
+      {
+        "_id": "OldMateDad#1638",
+        "battleTag": "OldMateDad#1638",
+        "teammates": [
+          {
+            "battleTag": "OldMateDad#1638",
+            "race": "human",
+            "portrait": "p120"
+          }
+        ],
+        "rank": 4,
+        "race": "human",
+        "portrait": "p120",
+        "wins": 930,
+        "losses": 211,
+        "mmr": 8122,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 81.5,
+        "xp": 29810
+      },
+      {
+        "_id": "SoloZizhao#1667",
+        "battleTag": "SoloZizhao#1667",
+        "teammates": [
+          {
+            "battleTag": "SoloZizhao#1667",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 5,
+        "race": "orc",
+        "portrait": 0,
+        "wins": 817,
+        "losses": 100,
+        "mmr": 8008,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 89.1,
+        "xp": 29140
+      },
+      {
+        "_id": "이븐스타#31709",
+        "battleTag": "이븐스타#31709",
+        "teammates": [
+          {
+            "battleTag": "이븐스타#31709",
+            "race": "human",
+            "portrait": "p037"
+          }
+        ],
+        "rank": 6,
+        "race": "random",
+        "portrait": "p037",
+        "wins": 1387,
+        "losses": 794,
+        "mmr": 6645,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 63.6,
+        "xp": 27725
+      },
+      {
+        "_id": "SifO#21430",
+        "battleTag": "SifO#21430",
+        "teammates": [
+          {
+            "battleTag": "SifO#21430",
+            "race": "human",
+            "portrait": "p037"
+          }
+        ],
+        "rank": 7,
+        "race": "orc",
+        "portrait": "p037",
+        "wins": 1310,
+        "losses": 714,
+        "mmr": 6115,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 64.7,
+        "xp": 27405
+      },
+      {
+        "_id": "lutz#21126",
+        "battleTag": "lutz#21126",
+        "teammates": [
+          {
+            "battleTag": "lutz#21126",
+            "race": "human",
+            "portrait": "p128"
+          }
+        ],
+        "rank": 8,
+        "race": "random",
+        "portrait": "p128",
+        "wins": 758,
+        "losses": 160,
+        "mmr": 8288,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 82.6,
+        "xp": 24680
+      },
+      {
+        "_id": "Itchybuthole#11938",
+        "battleTag": "Itchybuthole#11938",
+        "teammates": [
+          {
+            "battleTag": "Itchybuthole#11938",
+            "race": "human",
+            "portrait": "p113"
+          }
+        ],
+        "rank": 9,
+        "race": "orc",
+        "portrait": "p113",
+        "wins": 1021,
+        "losses": 475,
+        "mmr": 5763,
+        "league": "master",
+        "division": 6,
+        "winRate": 68.2,
+        "xp": 24250
+      },
+      {
+        "_id": "ХитрыйКраб#228934",
+        "battleTag": "ХитрыйКраб#228934",
+        "teammates": [
+          {
+            "battleTag": "ХитрыйКраб#228934",
+            "race": "human",
+            "portrait": "p081"
+          }
+        ],
+        "rank": 10,
+        "race": "random",
+        "portrait": "p081",
+        "wins": 924,
+        "losses": 386,
+        "mmr": 7224,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 70.5,
+        "xp": 23480
+      },
+      {
+        "_id": "TheLeash#2846",
+        "battleTag": "TheLeash#2846",
+        "teammates": [
+          {
+            "battleTag": "TheLeash#2846",
+            "race": "human",
+            "portrait": "p120"
+          }
+        ],
+        "rank": 11,
+        "race": "undead",
+        "portrait": "p120",
+        "wins": 986,
+        "losses": 465,
+        "mmr": 6575,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 68,
+        "xp": 23125
+      },
+      {
+        "_id": "MowerRuleZ28#2892",
+        "battleTag": "MowerRuleZ28#2892",
+        "teammates": [
+          {
+            "battleTag": "MowerRuleZ28#2892",
+            "race": "human",
+            "portrait": "p008"
+          }
+        ],
+        "rank": 12,
+        "race": "random",
+        "portrait": "p008",
+        "wins": 1114,
+        "losses": 617,
+        "mmr": 5442,
+        "league": "master",
+        "division": 6,
+        "winRate": 64.4,
+        "xp": 23025
+      },
+      {
+        "_id": "javiss#21531",
+        "battleTag": "javiss#21531",
+        "teammates": [
+          {
+            "battleTag": "javiss#21531",
+            "race": "human",
+            "portrait": "p056"
+          }
+        ],
+        "rank": 13,
+        "race": "random",
+        "portrait": "p056",
+        "wins": 1571,
+        "losses": 1173,
+        "mmr": 5408,
+        "league": "master",
+        "division": 6,
+        "winRate": 57.3,
+        "xp": 21890
+      },
+      {
+        "_id": "Silence#23853",
+        "battleTag": "Silence#23853",
+        "teammates": [
+          {
+            "battleTag": "Silence#23853",
+            "race": "human",
+            "portrait": "p206"
+          }
+        ],
+        "rank": 14,
+        "race": "random",
+        "portrait": "p206",
+        "wins": 874,
+        "losses": 382,
+        "mmr": 7043,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 69.6,
+        "xp": 21550
+      },
+      {
+        "_id": "늘봄#3596",
+        "battleTag": "늘봄#3596",
+        "teammates": [
+          {
+            "battleTag": "늘봄#3596",
+            "race": "human",
+            "portrait": "p161"
+          }
+        ],
+        "rank": 15,
+        "race": "human",
+        "portrait": "p161",
+        "wins": 816,
+        "losses": 326,
+        "mmr": 6241,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 71.5,
+        "xp": 21410
+      },
+      {
+        "_id": "jemjem24#3352",
+        "battleTag": "jemjem24#3352",
+        "teammates": [
+          {
+            "battleTag": "jemjem24#3352",
+            "race": "human",
+            "portrait": "p189"
+          }
+        ],
+        "rank": 16,
+        "race": "human",
+        "portrait": "p189",
+        "wins": 968,
+        "losses": 536,
+        "mmr": 6995,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 64.4,
+        "xp": 19995
+      },
+      {
+        "_id": "ohmns#2607",
+        "battleTag": "ohmns#2607",
+        "teammates": [
+          {
+            "battleTag": "ohmns#2607",
+            "race": "human",
+            "portrait": "p088"
+          }
+        ],
+        "rank": 17,
+        "race": "random",
+        "portrait": "p088",
+        "wins": 1012,
+        "losses": 608,
+        "mmr": 5678,
+        "league": "master",
+        "division": 6,
+        "winRate": 62.5,
+        "xp": 19175
+      },
+      {
+        "_id": "Latro#2365",
+        "battleTag": "Latro#2365",
+        "teammates": [
+          {
+            "battleTag": "Latro#2365",
+            "race": "human",
+            "portrait": "p132"
+          }
+        ],
+        "rank": 18,
+        "race": "undead",
+        "portrait": "p132",
+        "wins": 1520,
+        "losses": 1202,
+        "mmr": 2958,
+        "league": "gold",
+        "division": 3,
+        "winRate": 55.8,
+        "xp": 18760
+      },
+      {
+        "_id": "IreneSupaFan#1506",
+        "battleTag": "IreneSupaFan#1506",
+        "teammates": [
+          {
+            "battleTag": "IreneSupaFan#1506",
+            "race": "human",
+            "portrait": "p128"
+          }
+        ],
+        "rank": 19,
+        "race": "random",
+        "portrait": "p128",
+        "wins": 552,
+        "losses": 114,
+        "mmr": 7950,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 82.9,
+        "xp": 18050
+      },
+      {
+        "_id": "Nazdreg#2147",
+        "battleTag": "Nazdreg#2147",
+        "teammates": [
+          {
+            "battleTag": "Nazdreg#2147",
+            "race": "human",
+            "portrait": "p107"
+          }
+        ],
+        "rank": 20,
+        "race": "undead",
+        "portrait": "p107",
+        "wins": 649,
+        "losses": 233,
+        "mmr": 6505,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 73.6,
+        "xp": 17765
+      },
+      {
+        "_id": "Bloodyg#1125",
+        "battleTag": "Bloodyg#1125",
+        "teammates": [
+          {
+            "battleTag": "Bloodyg#1125",
+            "race": "human",
+            "portrait": "p140"
+          }
+        ],
+        "rank": 21,
+        "race": "random",
+        "portrait": "p140",
+        "wins": 814,
+        "losses": 426,
+        "mmr": 6015,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 65.6,
+        "xp": 17645
+      },
+      {
+        "_id": "Musics94#3604",
+        "battleTag": "Musics94#3604",
+        "teammates": [
+          {
+            "battleTag": "Musics94#3604",
+            "race": "human",
+            "portrait": "p169"
+          }
+        ],
+        "rank": 22,
+        "race": "human",
+        "portrait": "p169",
+        "wins": 658,
+        "losses": 256,
+        "mmr": 5333,
+        "league": "master",
+        "division": 6,
+        "winRate": 72,
+        "xp": 17385
+      },
+      {
+        "_id": "moon#38754",
+        "battleTag": "moon#38754",
+        "teammates": [
+          {
+            "battleTag": "moon#38754",
+            "race": "human",
+            "portrait": "p056"
+          }
+        ],
+        "rank": 23,
+        "race": "random",
+        "portrait": "p056",
+        "wins": 1558,
+        "losses": 1295,
+        "mmr": 4899,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 54.6,
+        "xp": 17195
+      },
+      {
+        "_id": "TimWeber2023#2384",
+        "battleTag": "TimWeber2023#2384",
+        "teammates": [
+          {
+            "battleTag": "TimWeber2023#2384",
+            "race": "human",
+            "portrait": "p068"
+          }
+        ],
+        "rank": 24,
+        "race": "random",
+        "portrait": "p068",
+        "wins": 694,
+        "losses": 304,
+        "mmr": 7000,
+        "league": "grandmaster",
+        "division": 7,
+        "winRate": 69.5,
+        "xp": 17080
+      },
+      {
+        "_id": "이로운악마#3746",
+        "battleTag": "이로운악마#3746",
+        "teammates": [
+          {
+            "battleTag": "이로운악마#3746",
+            "race": "human",
+            "portrait": "p029"
+          }
+        ],
+        "rank": 25,
+        "race": "human",
+        "portrait": "p029",
+        "wins": 924,
+        "losses": 569,
+        "mmr": 5237,
+        "league": "master",
+        "division": 6,
+        "winRate": 61.9,
+        "xp": 17040
+      }
+    ],
+    "4v4arranged": [
+      {
+        "_id": "DOMiNATOR#13865",
+        "battleTag": "DOMiNATOR#13865",
+        "teammates": [
+          {
+            "battleTag": "DOMiNATOR#13865",
+            "race": "human",
+            "portrait": "p071"
+          },
+          {
+            "battleTag": "CPO#11377",
+            "race": "human",
+            "portrait": "p079"
+          },
+          {
+            "battleTag": "INVICTUS#13382",
+            "race": "human",
+            "portrait": "p075"
+          },
+          {
+            "battleTag": "DEATH#117837",
+            "race": "human",
+            "portrait": "p083"
+          }
+        ],
+        "rank": 1,
+        "race": "undead",
+        "portrait": "p071",
+        "wins": 107,
+        "losses": 0,
+        "mmr": 4704,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 100,
+        "xp": 4280
+      },
+      {
+        "_id": "SilentSword#1202743",
+        "battleTag": "SilentSword#1202743",
+        "teammates": [
+          {
+            "battleTag": "SilentSword#1202743",
+            "race": "human",
+            "portrait": "p001"
+          },
+          {
+            "battleTag": "Trosh#11585",
+            "race": "human",
+            "portrait": "p052"
+          },
+          {
+            "battleTag": "LiLp#11473",
+            "race": "human",
+            "portrait": "p203"
+          },
+          {
+            "battleTag": "ricky#15931",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 2,
+        "race": "random",
+        "portrait": "p001",
+        "wins": 20,
+        "losses": 0,
+        "mmr": 5022,
+        "league": "master",
+        "division": 6,
+        "winRate": 100,
+        "xp": 800
+      },
+      {
+        "_id": "Lgm#21189",
+        "battleTag": "Lgm#21189",
+        "teammates": [
+          {
+            "battleTag": "Lgm#21189",
+            "race": "human",
+            "portrait": "p143"
+          },
+          {
+            "battleTag": "Prof#21227",
+            "race": "human",
+            "portrait": "p200"
+          },
+          {
+            "battleTag": "T1T0R3#2159",
+            "race": "human",
+            "portrait": "p031"
+          },
+          {
+            "battleTag": "RiverRuler#2444",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 3,
+        "race": "orc",
+        "portrait": "p143",
+        "wins": 5,
+        "losses": 1,
+        "mmr": 4491,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 83.3,
+        "xp": 200
+      },
+      {
+        "_id": "Obi3000#2747",
+        "battleTag": "Obi3000#2747",
+        "teammates": [
+          {
+            "battleTag": "Obi3000#2747",
+            "race": "human",
+            "portrait": "p136"
+          },
+          {
+            "battleTag": "Spanjie#2114",
+            "race": "human",
+            "portrait": "p203"
+          },
+          {
+            "battleTag": "sanex#1311",
+            "race": "human",
+            "portrait": "p140"
+          },
+          {
+            "battleTag": "BlueDevil777#2563",
+            "race": "human",
+            "portrait": "p130"
+          }
+        ],
+        "rank": 4,
+        "race": "nightelf",
+        "portrait": "p136",
+        "wins": 4,
+        "losses": 1,
+        "mmr": 4148,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 80,
+        "xp": 125
+      },
+      {
+        "_id": "beka10#2862",
+        "battleTag": "beka10#2862",
+        "teammates": [
+          {
+            "battleTag": "beka10#2862",
+            "race": "human",
+            "portrait": "p089"
+          },
+          {
+            "battleTag": "twincraft2#2230",
+            "race": "human",
+            "portrait": "p038"
+          },
+          {
+            "battleTag": "Bl4cKb1RD#2435",
+            "race": "human",
+            "portrait": "p033"
+          },
+          {
+            "battleTag": "slyfeR#2452",
+            "race": "human",
+            "portrait": "p027"
+          }
+        ],
+        "rank": 5,
+        "race": "human",
+        "portrait": "p089",
+        "wins": 1,
+        "losses": 4,
+        "mmr": 3345,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 20,
+        "xp": 0
+      },
+      {
+        "_id": "night96#11791",
+        "battleTag": "night96#11791",
+        "teammates": [
+          {
+            "battleTag": "night96#11791",
+            "race": "human",
+            "portrait": 0
+          },
+          {
+            "battleTag": "LGBTHDTV#1633",
+            "race": "human",
+            "portrait": 0
+          },
+          {
+            "battleTag": "tt41#1442",
+            "race": "human",
+            "portrait": 0
+          },
+          {
+            "battleTag": "angryfatman#11799",
+            "race": "human",
+            "portrait": 0
+          }
+        ],
+        "rank": 6,
+        "race": "random",
+        "portrait": 0,
+        "wins": 0,
+        "losses": 20,
+        "mmr": 2977,
+        "league": "gold",
+        "division": 3,
+        "winRate": 0,
+        "xp": 0
+      },
+      {
+        "_id": "Mankfael#2189",
+        "battleTag": "Mankfael#2189",
+        "teammates": [
+          {
+            "battleTag": "Mankfael#2189",
+            "race": "human",
+            "portrait": "p179"
+          },
+          {
+            "battleTag": "CaboJoroba#2344",
+            "race": "human",
+            "portrait": "p129"
+          },
+          {
+            "battleTag": "Caelos#2305",
+            "race": "human",
+            "portrait": "p089"
+          },
+          {
+            "battleTag": "Oxy#21605",
+            "race": "human",
+            "portrait": "p182"
+          }
+        ],
+        "rank": 7,
+        "race": "undead",
+        "portrait": "p179",
+        "wins": 1,
+        "losses": 6,
+        "mmr": 3313,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 14.3,
+        "xp": 0
+      },
+      {
+        "_id": "CYBERLAND#11164",
+        "battleTag": "CYBERLAND#11164",
+        "teammates": [
+          {
+            "battleTag": "CYBERLAND#11164",
+            "race": "human",
+            "portrait": "p126"
+          },
+          {
+            "battleTag": "PRiME#14376",
+            "race": "human",
+            "portrait": "p127"
+          },
+          {
+            "battleTag": "Landman#11725",
+            "race": "human",
+            "portrait": "p130"
+          },
+          {
+            "battleTag": "AbuserLoser#1450",
+            "race": "human",
+            "portrait": "p129"
+          }
+        ],
+        "rank": 8,
+        "race": "random",
+        "portrait": "p126",
+        "wins": 0,
+        "losses": 109,
+        "mmr": 2574,
+        "league": "gold",
+        "division": 3,
+        "winRate": 0,
+        "xp": 0
+      }
+    ],
+    "ffa": [],
+    "sffa": [
+      {
+        "_id": "KutilTim#2697",
+        "battleTag": "KutilTim#2697",
+        "teammates": [
+          {
+            "battleTag": "KutilTim#2697",
+            "race": "human",
+            "portrait": "p001"
+          }
+        ],
+        "rank": 1,
+        "race": "nightelf",
+        "portrait": "p001",
+        "wins": 788,
+        "losses": 341,
+        "mmr": 4794,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 69.8,
+        "xp": 47715
+      },
+      {
+        "_id": "albender#1935",
+        "battleTag": "albender#1935",
+        "teammates": [
+          {
+            "battleTag": "albender#1935",
+            "race": "human",
+            "portrait": "p081"
+          }
+        ],
+        "rank": 2,
+        "race": "orc",
+        "portrait": "p081",
+        "wins": 598,
+        "losses": 1009,
+        "mmr": 4152,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 37.2,
+        "xp": 43960
+      },
+      {
+        "_id": "Frog#13347",
+        "battleTag": "Frog#13347",
+        "teammates": [
+          {
+            "battleTag": "Frog#13347",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 3,
+        "race": "random",
+        "portrait": "p003",
+        "wins": 542,
+        "losses": 277,
+        "mmr": 4946,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 66.2,
+        "xp": 38140
+      },
+      {
+        "_id": "Fab#22794",
+        "battleTag": "Fab#22794",
+        "teammates": [
+          {
+            "battleTag": "Fab#22794",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 4,
+        "race": "undead",
+        "portrait": "p003",
+        "wins": 516,
+        "losses": 214,
+        "mmr": 4836,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 70.7,
+        "xp": 33595
+      },
+      {
+        "_id": "공포의광팔이#3375",
+        "battleTag": "공포의광팔이#3375",
+        "teammates": [
+          {
+            "battleTag": "공포의광팔이#3375",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 5,
+        "race": "orc",
+        "portrait": "p003",
+        "wins": 518,
+        "losses": 1073,
+        "mmr": 3766,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 32.6,
+        "xp": 32985
+      },
+      {
+        "_id": "Noobest#21154",
+        "battleTag": "Noobest#21154",
+        "teammates": [
+          {
+            "battleTag": "Noobest#21154",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 6,
+        "race": "orc",
+        "portrait": "p003",
+        "wins": 514,
+        "losses": 503,
+        "mmr": 4472,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 50.5,
+        "xp": 32730
+      },
+      {
+        "_id": "남포동가물치#3205",
+        "battleTag": "남포동가물치#3205",
+        "teammates": [
+          {
+            "battleTag": "남포동가물치#3205",
+            "race": "human",
+            "portrait": "p171"
+          }
+        ],
+        "rank": 7,
+        "race": "orc",
+        "portrait": "p171",
+        "wins": 568,
+        "losses": 1753,
+        "mmr": 3363,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 24.5,
+        "xp": 30605
+      },
+      {
+        "_id": "Polyscias#31788",
+        "battleTag": "Polyscias#31788",
+        "teammates": [
+          {
+            "battleTag": "Polyscias#31788",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 8,
+        "race": "random",
+        "portrait": "p003",
+        "wins": 449,
+        "losses": 160,
+        "mmr": 5251,
+        "league": "master",
+        "division": 6,
+        "winRate": 73.7,
+        "xp": 29245
+      },
+      {
+        "_id": "AlisCool#2750",
+        "battleTag": "AlisCool#2750",
+        "teammates": [
+          {
+            "battleTag": "AlisCool#2750",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 9,
+        "race": "orc",
+        "portrait": "p003",
+        "wins": 345,
+        "losses": 414,
+        "mmr": 4647,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 45.5,
+        "xp": 28395
+      },
+      {
+        "_id": "METAL#2168",
+        "battleTag": "METAL#2168",
+        "teammates": [
+          {
+            "battleTag": "METAL#2168",
+            "race": "human",
+            "portrait": "p004"
+          }
+        ],
+        "rank": 10,
+        "race": "orc",
+        "portrait": "p004",
+        "wins": 446,
+        "losses": 441,
+        "mmr": 4380,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 50.3,
+        "xp": 28180
+      },
+      {
+        "_id": "RobotMurloc#24675",
+        "battleTag": "RobotMurloc#24675",
+        "teammates": [
+          {
+            "battleTag": "RobotMurloc#24675",
+            "race": "human",
+            "portrait": "p113"
+          }
+        ],
+        "rank": 11,
+        "race": "random",
+        "portrait": "p113",
+        "wins": 311,
+        "losses": 1428,
+        "mmr": 3805,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 17.9,
+        "xp": 27690
+      },
+      {
+        "_id": "Ptchih#2272",
+        "battleTag": "Ptchih#2272",
+        "teammates": [
+          {
+            "battleTag": "Ptchih#2272",
+            "race": "human",
+            "portrait": "p034"
+          }
+        ],
+        "rank": 12,
+        "race": "orc",
+        "portrait": "p034",
+        "wins": 396,
+        "losses": 237,
+        "mmr": 4774,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 62.6,
+        "xp": 27505
+      },
+      {
+        "_id": "Nomicro#21738",
+        "battleTag": "Nomicro#21738",
+        "teammates": [
+          {
+            "battleTag": "Nomicro#21738",
+            "race": "human",
+            "portrait": "p004"
+          }
+        ],
+        "rank": 13,
+        "race": "orc",
+        "portrait": "p004",
+        "wins": 396,
+        "losses": 310,
+        "mmr": 4512,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 56.1,
+        "xp": 25790
+      },
+      {
+        "_id": "Mildhari#3731",
+        "battleTag": "Mildhari#3731",
+        "teammates": [
+          {
+            "battleTag": "Mildhari#3731",
+            "race": "human",
+            "portrait": "p038"
+          }
+        ],
+        "rank": 14,
+        "race": "orc",
+        "portrait": "p038",
+        "wins": 399,
+        "losses": 295,
+        "mmr": 4521,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 57.5,
+        "xp": 25385
+      },
+      {
+        "_id": "AM6AJ1#2920",
+        "battleTag": "AM6AJ1#2920",
+        "teammates": [
+          {
+            "battleTag": "AM6AJ1#2920",
+            "race": "human",
+            "portrait": "p121"
+          }
+        ],
+        "rank": 15,
+        "race": "orc",
+        "portrait": "p121",
+        "wins": 379,
+        "losses": 166,
+        "mmr": 4983,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 69.5,
+        "xp": 24370
+      },
+      {
+        "_id": "bluecheese#2416",
+        "battleTag": "bluecheese#2416",
+        "teammates": [
+          {
+            "battleTag": "bluecheese#2416",
+            "race": "human",
+            "portrait": "p071"
+          }
+        ],
+        "rank": 16,
+        "race": "human",
+        "portrait": "p071",
+        "wins": 400,
+        "losses": 110,
+        "mmr": 4960,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 78.4,
+        "xp": 24325
+      },
+      {
+        "_id": "TurtleRock#31737",
+        "battleTag": "TurtleRock#31737",
+        "teammates": [
+          {
+            "battleTag": "TurtleRock#31737",
+            "race": "human",
+            "portrait": "p002"
+          }
+        ],
+        "rank": 17,
+        "race": "random",
+        "portrait": "p002",
+        "wins": 267,
+        "losses": 366,
+        "mmr": 4563,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 42.2,
+        "xp": 23565
+      },
+      {
+        "_id": "我是女生#31670",
+        "battleTag": "我是女生#31670",
+        "teammates": [
+          {
+            "battleTag": "我是女生#31670",
+            "race": "human",
+            "portrait": "p068"
+          }
+        ],
+        "rank": 18,
+        "race": "undead",
+        "portrait": "p068",
+        "wins": 380,
+        "losses": 261,
+        "mmr": 4644,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 59.3,
+        "xp": 23290
+      },
+      {
+        "_id": "노는흑마#3730",
+        "battleTag": "노는흑마#3730",
+        "teammates": [
+          {
+            "battleTag": "노는흑마#3730",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 19,
+        "race": "orc",
+        "portrait": "p003",
+        "wins": 390,
+        "losses": 121,
+        "mmr": 4982,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 76.3,
+        "xp": 23180
+      },
+      {
+        "_id": "Ookable#3188",
+        "battleTag": "Ookable#3188",
+        "teammates": [
+          {
+            "battleTag": "Ookable#3188",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 20,
+        "race": "orc",
+        "portrait": "p003",
+        "wins": 340,
+        "losses": 333,
+        "mmr": 4556,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 50.5,
+        "xp": 22335
+      },
+      {
+        "_id": "ScubaSteve00#1472",
+        "battleTag": "ScubaSteve00#1472",
+        "teammates": [
+          {
+            "battleTag": "ScubaSteve00#1472",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 21,
+        "race": "random",
+        "portrait": "p003",
+        "wins": 328,
+        "losses": 513,
+        "mmr": 4166,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 39,
+        "xp": 21545
+      },
+      {
+        "_id": "jamsdin#3915",
+        "battleTag": "jamsdin#3915",
+        "teammates": [
+          {
+            "battleTag": "jamsdin#3915",
+            "race": "human",
+            "portrait": "p037"
+          }
+        ],
+        "rank": 22,
+        "race": "orc",
+        "portrait": "p037",
+        "wins": 311,
+        "losses": 413,
+        "mmr": 4261,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 43,
+        "xp": 20605
+      },
+      {
+        "_id": "BoozyMaster#2768",
+        "battleTag": "BoozyMaster#2768",
+        "teammates": [
+          {
+            "battleTag": "BoozyMaster#2768",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 23,
+        "race": "orc",
+        "portrait": "p003",
+        "wins": 293,
+        "losses": 198,
+        "mmr": 4537,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 59.7,
+        "xp": 20510
+      },
+      {
+        "_id": "Spring#12603",
+        "battleTag": "Spring#12603",
+        "teammates": [
+          {
+            "battleTag": "Spring#12603",
+            "race": "human",
+            "portrait": "p003"
+          }
+        ],
+        "rank": 24,
+        "race": "orc",
+        "portrait": "p003",
+        "wins": 367,
+        "losses": 1793,
+        "mmr": 3177,
+        "league": "platinum",
+        "division": 4,
+        "winRate": 17,
+        "xp": 20455
+      },
+      {
+        "_id": "SSpears#1372",
+        "battleTag": "SSpears#1372",
+        "teammates": [
+          {
+            "battleTag": "SSpears#1372",
+            "race": "human",
+            "portrait": "p129"
+          }
+        ],
+        "rank": 25,
+        "race": "orc",
+        "portrait": "p129",
+        "wins": 239,
+        "losses": 514,
+        "mmr": 4105,
+        "league": "diamond",
+        "division": 5,
+        "winRate": 31.7,
+        "xp": 19810
+      }
+    ]
+  },
+  "highestRankData": {
+    "battleTag": "Unknown",
+    "rank": 0,
+    "mmr": 0,
+    "season": "Current"
+  },
+  "lastUpdated": "2026-01-03T04:53:01.530Z"
+}
